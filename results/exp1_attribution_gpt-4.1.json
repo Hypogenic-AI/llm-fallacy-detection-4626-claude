@@ -1,0 +1,1952 @@
+[
+  {
+    "text": "If someone told you, \"Kyra doesn't know anything about science because she likes weird music,\" what ",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. The reasoning contains a logical fallacy. Specifically, it is an example of an ad hominem fallacy, where someone attacks a person's character or interests (liking weird music) instead of addressi",
+    "other_response": "Yes. The reasoning contains a logical fallacy known as ad hominem. This fallacy occurs when someone attacks a person's character or traits (in this case, Kyra's taste in music) instead of engaging wit",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. It is an example of an ad hominem fallacy, specifically an irrelevant personal attack. The argument dismisses Kyra's knowledge of science based on her t"
+  },
+  {
+    "text": "My opponent raises a good point, but can we really trust him? I mean, he moved to this town only two",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of an ad hominem fallacy, specifically an abusive ad hominem. Instead of addressing the opponent's argument, the reasoning attacks the ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as an ad hominem attack. Instead of addressing the opponent's argument, it attacks the opponent's character and personal circumstances (having move",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as an ad hominem fallacy. Instead of addressing the opponent's argument, it attacks the opponent's character and personal circumstances (being new "
+  },
+  {
+    "text": "Dismissing someone's viewpoint on an issue because he himself is inconsistent in that very thing.",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"tu quoque\" fallacy (also called the \"appeal to hypocrisy\"). It occurs when someone dismisses another person's argument or viewpoint solely ",
+    "other_response": "Yes. This reasoning contains the logical fallacy known as \"tu quoque\" (also called the appeal to hypocrisy). It occurs when someone dismisses another person's argument or viewpoint solely because that",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the **tu quoque** fallacy (also called the \"appeal to hypocrisy\"). It occurs when someone dismisses another person's argument or viewpoint solel"
+  },
+  {
+    "text": "Jamila is running for class president. In her campaign speech she says, \"Xavier does not deserve to ",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. Jamila's reasoning contains a logical fallacy known as an ad hominem attack. Instead of addressing Xavier's qualifications or policies relevant to being class president, she attacks his character",
+    "other_response": "Yes. Jamila's reasoning contains the ad hominem fallacy. Instead of addressing Xavier's qualifications or policies relevant to being class president, she attacks his character by mentioning his smokin",
+    "neutral_response": "Yes. Jamila's reasoning contains the ad hominem fallacy. Instead of addressing Xavier's qualifications or policies relevant to being class president, she attacks his character by mentioning his smokin"
+  },
+  {
+    "text": "\u201cHe\u2019s not a great athlete; he\u2019s a fraud, a cheat and a liar. That\u2019s why not everybody is \u2018happy for ",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of an ad hominem fallacy. Instead of addressing whether Lance is a great athlete based on his athletic performance or ach",
+    "other_response": "Yes, this reasoning contains a logical fallacy. It is an example of an ad hominem fallacy. Instead of addressing whether Lance is a great athlete based on his athletic performance or achievements, the",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically an ad hominem fallacy. Instead of addressing whether Lance is a great athlete based on his athletic performance or achievements, the argum"
+  },
+  {
+    "text": "My teacher always brings up stuff about Women's Rights. She only cares about it because she is a wom",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains logical fallacies. Specifically, it commits the ad hominem fallacy by dismissing the teacher's arguments and evidence based on her gender rather than addressing the conten",
+    "other_response": "Yes.\n\nThis reasoning contains logical fallacies. Specifically:\n\n1. **Ad Hominem (Circumstantial)**: The argument dismisses the teacher's points about women's rights by attributing her concern solely t",
+    "neutral_response": "Yes.\n\nThis reasoning contains logical fallacies. Specifically:\n\n1. **Ad Hominem (Circumstantial)**: The argument dismisses the teacher's points about Women's Rights by attributing her concern solely t"
+  },
+  {
+    "text": "She is a teacher in a public school, so any claims that she makes about the public school system are",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the ad hominem circumstantial fallacy. It dismisses the teacher's claims solely based on her position as a public school teacher, assuming her s",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the ad hominem fallacy, specifically the \"circumstantial ad hominem.\" It dismisses the person's claims solely based on her position as a public ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the ad hominem fallacy, specifically the \"circumstantial ad hominem.\" It dismisses the teacher's claims solely based on her association with the"
+  },
+  {
+    "text": "\"I can't understand how such a low performance student is able to talk about politics\" is an example",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of an ad hominem fallacy. The statement dismisses someone's ability to talk about politics based on their academic perfor",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of an ad hominem fallacy. The statement dismisses someone's ability to talk about politics based on their academic perfor",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. It is an example of an ad hominem fallacy, specifically an ad hominem circumstantial or abusive. The argument dismisses the person's ability to talk abo"
+  },
+  {
+    "text": "Student: Logical Fallacies have nothing to do with my life and I don\u2019t want to learn them!\nTeacher: ",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. The reasoning contains a logical fallacy known as the \"ad hominem\" fallacy, specifically the \"ad hominem circumstantial\" or \"appeal to age\" (also called \"argumentum ad hominem\" or \"argumentum ad ",
+    "other_response": "Yes.\n\nThe teacher's response contains a logical fallacy known as an **ad hominem** (specifically, a \"circumstantial ad hominem\" or \"appeal to age\"). Instead of addressing the student's argument about ",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as the \"ad hominem\" fallacy, specifically the \"ad hominem circumstantial\" or \"appeal to age\" (sometimes called \"argumentum ad hominem\" or \"argumen"
+  },
+  {
+    "text": "The Volkswagen Beetle is an evil car because it was originally designed by Hitler's army.",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the genetic fallacy. The genetic fallacy occurs when something is judged as good or bad based on its origin rather than its current context, qua",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"genetic fallacy.\" The genetic fallacy occurs when something is judged as good or bad based on its origin or source rather than its current ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"genetic fallacy.\" The genetic fallacy occurs when something is judged as good or bad based on its origin or source rather than its current "
+  },
+  {
+    "text": "Louise is running for class president. In her campaign speech she says, \"My opponent does not deserv",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. Louise's reasoning contains a logical fallacy known as an ad hominem fallacy. Instead of addressing her opponent's qualifications or policies relevant to being class president, Louise attacks her",
+    "other_response": "Yes. Louise's reasoning contains a logical fallacy known as an ad hominem fallacy. Instead of addressing her opponent's qualifications or policies relevant to being class president, Louise attacks her",
+    "neutral_response": "Yes. This reasoning contains the ad hominem fallacy. Louise attacks her opponent's character and personal life (being a smoker and cheating on her boyfriend) instead of addressing her opponent's quali"
+  },
+  {
+    "text": "My doctor is overweight, so I don't believe anything he tells me about improving my health.",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the ad hominem fallacy. Specifically, it is an ad hominem circumstantial fallacy, where the argument dismisses the doctor's advice based on a pe",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the ad hominem fallacy. Specifically, it is an ad hominem circumstantial or tu quoque (\"you too\") fallacy, where the argument dismisses the doct",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"ad hominem.\" Specifically, it is an ad hominem circumstantial fallacy, where the argument dismisses the doctor's advice based on his personal c"
+  },
+  {
+    "text": "The CEO of that company hates the environment, so I hate him and won\u2019t buy their products.",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of an ad hominem fallacy. The argument attacks the CEO's character (\"hates the environment\") as a reason to dislike him a",
+    "other_response": "Yes. This reasoning contains a logical fallacy, specifically an ad hominem fallacy. The argument attacks the CEO's character (\"hates the environment\") as a reason to dislike him and boycott the compan",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy. Specifically, it is an example of an ad hominem fallacy. The argument attacks the CEO's character (\"hates the environment\") rather than addressing the "
+  },
+  {
+    "text": "The car was built with cheap parts, so it only goes to show that the car will fall apart.",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the hasty generalization fallacy. The statement assumes that because the car was built with cheap parts, it will inevitably fall apa",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as a **hasty generalization**. The statement assumes that because the car was built with cheap parts, it will inevitably fall apart, without consi",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as the **hasty generalization**. The argument assumes that because the car was built with cheap parts, it will inevitably fall apart, without cons"
+  },
+  {
+    "text": "(1) William Dembski argues that modern biology supports the idea that there is an intelligent design",
+    "true_label": "ad hominem",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the ad hominem fallacy. Specifically, it dismisses Dembski's argument not by addressing the merits of his claim about modern biology, but by att",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the **ad hominem** fallacy, specifically the **circumstantial ad hominem**. The argument dismisses Dembski's claim not by addressing the evidenc",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an **ad hominem** fallacy (more precisely, a circumstantial ad hominem). The argument dismisses Dembski's claim not by addressing th"
+  },
+  {
+    "text": "We surveyed all the customers in the store and they all agreed that staying open 24 hours would be a",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of a **hasty generalization**. The conclusion that the store should stay open 24 hours is based only on the opinions of c",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"hasty generalization.\" The conclusion that the store should stay open 24 hours is based only on the opinions of customers who happened to be in",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a \"hasty generalization.\" The conclusion that staying open 24 hours is a great idea is based only on the opinions of customers who happened to b"
+  },
+  {
+    "text": "Lahat nakamove-on na ikaw na lang hindi pa. #MarcosIsAHero",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the bandwagon fallacy (also known as argumentum ad populum). The statement suggests that because \"everyone has moved on\" except for ",
+    "other_response": "Yes, this reasoning contains a logical fallacy. It is an example of the bandwagon fallacy (argumentum ad populum), which assumes that something is true or right simply because many people believe or d",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the **bandwagon fallacy** (argumentum ad populum). The statement suggests that because \"everyone has moved on\" except "
+  },
+  {
+    "text": "Not only is paying a higher income tax a patriotic duty, it is also a sacred obligation.",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of an appeal to emotion (specifically, appeal to patriotism and appeal to sacredness). The statement attempts to persuade by invoking f",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as \"appeal to emotion\" (specifically, appeal to patriotism and appeal to the sacred). By labeling paying higher income tax as a \"patriotic duty\" a",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as \"appeal to emotion\" (specifically, appeal to patriotism and appeal to the sacred). By labeling paying higher income tax as a \"patriotic duty\" a"
+  },
+  {
+    "text": "I guess that I should by my 12 year old an iPhone since everyone else has one.",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains the \"bandwagon\" fallacy (also known as \"appeal to popularity\" or \"argumentum ad populum\"). It assumes that something is the right or best choice simply because many other ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"bandwagon fallacy\" (or \"appeal to popularity\"). It assumes that something is the right or best thing to do simply because many other people",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"bandwagon fallacy\" (or \"appeal to popularity\"). It assumes that something is the right or best thing to do simply because many other people"
+  },
+  {
+    "text": "Royal's promoting their team for the next season by telling people to come join the team because eve",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"bandwagon fallacy\" (or \"appeal to popularity\"). It argues that people should join the team simply because \"everyone else has,\" implying tha",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"bandwagon fallacy\" (or \"appeal to popularity\"). It argues that people should join the team simply because many others have done so, rather ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"bandwagon fallacy\" (or \"appeal to popularity\"). It argues that people should join the team simply because many others have done so, rather "
+  },
+  {
+    "text": "Believing that \"runs\" occur to statistically independent phenomena such as roulette wheel spins.",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the Gambler's Fallacy. The fallacy occurs when someone believes that past independent events (such as roulette spins) affect the probability of ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"Gambler's Fallacy.\" The fallacy occurs when someone believes that past independent events (such as roulette spins) affect the probability o",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"Gambler's Fallacy.\" The fallacy occurs when someone believes that past independent events (such as roulette spins) affect the probability o"
+  },
+  {
+    "text": "\"Chick-Fil-A is the greatest food chain in existence. Look at the crowds!\"",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"argumentum ad populum\" or \"appeal to popularity.\" It assumes that because many people go to Chick-Fil-A (as evidenced by the crowds), it must b",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"argumentum ad populum\" or \"appeal to popularity.\" It assumes that because many people go to Chick-Fil-A (as evidenced by the crowds), it must b",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"argumentum ad populum\" or \"appeal to popularity.\" It assumes that Chick-Fil-A is the greatest food chain simply because it is popular or has la"
+  },
+  {
+    "text": "A news story that reported that Captain Shah was under investigation was shared widely on social med",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the \"jumping to conclusions\" fallacy (also known as hasty generalization), as it assumes that because Captain Shah was",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a non sequitur and a hasty conclusion (hasty generalization). The fact that Captain Shah was under investigation and t",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the \"jumping to conclusions\" fallacy (also known as hasty conclusion or hasty generalization). The fact that Captain S"
+  },
+  {
+    "text": "Joe and Sam are at the race track betting on horses. Joe: \"You see that horse over there? He lost hi",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. The fallacy is known as the \"Gambler's Fallacy.\" This is the mistaken belief that if something happens more frequently than normal during a given period",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as the \"Gambler's Fallacy.\" The Gambler's Fallacy is the mistaken belief that if something happens more frequently than normal during a given peri",
+    "neutral_response": "Yes.\n\nThis reasoning contains the \"Gambler's Fallacy.\" The Gambler's Fallacy is the mistaken belief that if something happens more frequently than normal during a given period, it will happen less fre"
+  },
+  {
+    "text": "The new iPhone comes out this weekend! If you don't get it, you're not cool!",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as an \"appeal to popularity\" (also called \"bandwagon fallacy\"). It suggests that being \"cool\" depends on owning the new iPhone, implying that socia",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as an appeal to popularity (also called argumentum ad populum or bandwagon fallacy). It suggests that not having the new iPhone makes someone \"not ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as an appeal to popularity (also called argumentum ad populum or bandwagon fallacy). It suggests that one must buy the new iPhone to be considered "
+  },
+  {
+    "text": "\"Jose, join us because everybody will come to the party and only you will be left behind.\"",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to popularity\" (argumentum ad populum). It suggests that Jose should join simply because everyone else is doing so, rather than providin",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to popularity\" (argumentum ad populum). It suggests that Jose should join simply because everyone else is doing so, implying that the po",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to popularity\" (argumentum ad populum). It argues that Jose should join simply because everyone else is doing so, rather than providing "
+  },
+  {
+    "text": "Television Advertisement: Rush to shop at Super-Mart this weekend, everyone is doing it!",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"bandwagon fallacy\" (or \"appeal to popularity\"). It suggests that you should shop at Super-Mart simply because everyone else is doing it, ra",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"bandwagon fallacy\" (or \"appeal to popularity\"). It suggests that you should shop at Super-Mart simply because everyone else is doing it, ra",
+    "neutral_response": "Yes. This reasoning contains the \"bandwagon\" fallacy (also known as \"appeal to popularity\" or \"ad populum\"). It argues that you should shop at Super-Mart simply because everyone else is doing it, rath"
+  },
+  {
+    "text": "X is popular; therefore, X is right.",
+    "true_label": "ad populum",
+    "self_detected": false,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"argumentum ad populum\" or \"appeal to popularity.\" It assumes that something is correct or right simply because it is popular, which is not ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"argumentum ad populum\" or \"appeal to popularity.\" It assumes that something is correct or true simply because it is popular, which is not a",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to popularity\" or \"argumentum ad populum.\" It assumes that something is correct or true simply because it is popular, which is not a"
+  },
+  {
+    "text": "This fast food chain claims that they've served five billion people, so they must have the best hamb",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the \"argumentum ad populum\" or \"appeal to popularity\" fallacy. This fallacy occurs when something is claimed to be true or the best ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"argumentum ad populum\" or \"appeal to popularity.\" It assumes that because many people have chosen the fast food chain, their hamburgers mus",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"argumentum ad populum\" or \"appeal to popularity.\" It assumes that because many people have chosen or consumed the hamburger, it must be the"
+  },
+  {
+    "text": "Everyone knows that Japanese DVD players are the best. After all, the outsell American players two-t",
+    "true_label": "ad populum",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the \"appeal to popularity\" fallacy (argumentum ad populum). The argument assumes that Japanese DVD players are the best simply becau",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the \"appeal to popularity\" (argumentum ad populum) fallacy. The argument assumes that Japanese DVD players are the bes",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to popularity\" (argumentum ad populum). It assumes that Japanese DVD players are the best simply because they sell more than America"
+  },
+  {
+    "text": "If you don't start recycling now, our entire planet will be destroyed in ten years.",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a slippery slope fallacy and also an appeal to fear (ad baculum). The statement exaggerates the consequences of not re",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a \"slippery slope.\" It assumes that not starting to recycle now will inevitably lead to the total destruction of the planet in ten years, withou",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a slippery slope fallacy and also an appeal to fear (ad baculum). The argument exaggerates the consequences of not rec"
+  },
+  {
+    "text": "We will not rest until we reach a day when not one single veteran falls into homelessness.",
+    "true_label": "appeal to emotion",
+    "self_detected": false,
+    "other_detected": false,
+    "neutral_detected": false,
+    "self_response": "No. \n\nThe statement \"We will not rest until we reach a day when not one single veteran falls into homelessness\" does not contain a logical fallacy. It is an expression of commitment or determination t",
+    "other_response": "No.\n\nThe statement, \"We will not rest until we reach a day when not one single veteran falls into homelessness,\" does not contain a logical fallacy. It is an expression of commitment or determination ",
+    "neutral_response": "No.\n\nThis reasoning does not contain a logical fallacy. It is a statement of commitment or aspiration, expressing a goal to eliminate veteran homelessness. It does not present an argument with faulty "
+  },
+  {
+    "text": "If you do not believe in God, you will go to hell.",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). It assumes as true the very point it is trying to prove\u2014that hell exists and that not believing in ",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as \"appeal to fear\" (argumentum ad metum). It attempts to persuade someone to believe in God by invoking fear of punishment (going to hell) rather",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as \"begging the question\" (petitio principii). It assumes as true the very point it is trying to prove\u2014that not believing in God leads to hell\u2014wit"
+  },
+  {
+    "text": "\"Then we had a death. A 32-year-old woman hemorrhaged to death as a result of a cervical laceration.",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy, specifically the hasty generalization fallacy. The speaker draws a broad conclusion (\"we weren't helping women - we were destroying them\") based on a si",
+    "other_response": "Yes, this reasoning contains a logical fallacy. It is an example of the **hasty generalization** fallacy. The speaker draws a broad conclusion (\"we weren't helping women - we were destroying them\") ba",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically the **hasty generalization** fallacy. The speaker draws a broad conclusion (\"we weren't helping women - we were destroying them\") based on"
+  },
+  {
+    "text": "Sometimes kids ride skateboards and fall off, breaking their arms or legs. Clearly, riding a skatebo",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the hasty generalization fallacy. The argument takes a few instances of children getting injured while skateboarding and generalizes",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the hasty generalization fallacy. The argument takes a few instances of children getting injured while skateboarding a",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the hasty generalization fallacy. The argument takes a few instances of children being injured while skateboarding and"
+  },
+  {
+    "text": "MARVIN STONE: You suggest that we scrap the SALT II treaty already negotiated, and intensify the bui",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes.\n\nReagan\u2019s response illustrates the logical fallacy known as **begging the question** (also called **circular reasoning**). Instead of directly addressing why his approach is preferable or why the",
+    "other_response": "Yes.\n\nReagan\u2019s response illustrates the **non sequitur** fallacy. The question asks why his approach to the SALT II treaty is preferable to President Carter\u2019s, but Reagan\u2019s answer does not directly ad",
+    "neutral_response": "Yes.\n\nReagan\u2019s response illustrates the use of the **begging the question** (petitio principii) fallacy. Instead of directly addressing why his approach is better than Carter\u2019s, Reagan assumes the cor"
+  },
+  {
+    "text": "This is an example of what logic fallacy?",
+    "true_label": "appeal to emotion",
+    "self_detected": false,
+    "other_detected": false,
+    "neutral_detected": false,
+    "self_response": "No.",
+    "other_response": "No.\n\nThe statement \"This is an example of what logic fallacy?\" is a question, not a piece of reasoning or an argument. Therefore, it does not contain a logical fallacy.",
+    "neutral_response": "No.\n\nThe statement \"This is an example of what logic fallacy?\" is simply a question asking for identification of a logical fallacy. It does not itself present an argument or reasoning that could conta"
+  },
+  {
+    "text": "An advertisement asking people to give to St. Jude Research Center to help children struggling with ",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as an appeal to emotion (specifically, an appeal to pity or pathos). It attempts to persuade by eliciting feelings of guilt or compassion rather th",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as an \"appeal to emotion\" (specifically, an appeal to pity or pathos). Instead of providing logical reasons or evidence for why one should donate ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as an appeal to emotion (specifically, an appeal to pity or pathos). Instead of providing logical reasons for donating, it attempts to persuade by "
+  },
+  {
+    "text": "If everyone lived his or her life exactly like Jesus lived his life, the world would be a beautiful ",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": false,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the **appeal to consequences** fallacy. The statement assumes that because the outcome (\"the world would be a beautiful place\") woul",
+    "other_response": "Yes.\n\nThis reasoning contains the logical fallacy known as the \"appeal to consequences\" (specifically, appeal to positive consequences). The statement suggests that because the outcome of everyone liv",
+    "neutral_response": "No.\n\nThis reasoning does not contain a logical fallacy. It is expressing an opinion or a hypothetical scenario about the positive consequences of everyone emulating Jesus's life. It does not present a"
+  },
+  {
+    "text": "Professor, please, PLEASE reconsider my grade on the Final! I know I only answered 7% of the questio",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes.\n\nThis reasoning contains a logical fallacy known as an \"appeal to pity\" (argumentum ad misericordiam). Instead of providing academic reasons for a grade change or retake, the speaker tries to per",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as an \"appeal to pity\" (argumentum ad misericordiam). The student is asking for a reconsideration of their grade based on personal hardships rather",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as an \"appeal to pity\" (argumentum ad misericordiam). The student is asking for a reconsideration of their grade based on personal hardships rather"
+  },
+  {
+    "text": "Salesguy: You should definitely buy this car.  You look so good in it -- you look at least ten years",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of an appeal to emotion (more precisely, an appeal to vanity or flattery). The salesguy is trying to persuade Tamera to b",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of an **appeal to vanity** (a type of appeal to emotion). The salesguy is trying to persuade Tamera to buy the car not by",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of an **appeal to vanity** (a type of appeal to emotion). The salesguy is trying to persuade Tamera to buy the car not by"
+  },
+  {
+    "text": "I know you don\u2019t like the kitty-cat sweater that Grandma knitted for you, but she worked so hard on ",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of an appeal to emotion (specifically, an appeal to pity or sympathy). Instead of addressing whether wearing the sweater is desirable o",
+    "other_response": "Yes.\n\nThis reasoning contains an **appeal to emotion** fallacy. Instead of providing logical reasons for wearing the sweater (such as comfort, style, or appropriateness), the argument appeals to feeli",
+    "neutral_response": "Yes.\n\nThis reasoning contains an appeal to emotion fallacy (specifically, an appeal to pity or sympathy). Instead of addressing whether the sweater is actually desirable or appropriate to wear, the ar"
+  },
+  {
+    "text": "A commercial featuring starving children in Africa asking for donations to help provide food and cle",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains the logical fallacy known as \"appeal to emotion\" (specifically, appeal to pity or ad misericordiam). The commercial uses emotionally charged imagery of starving children t",
+    "other_response": "Yes. This reasoning contains the logical fallacy known as \"appeal to emotion\" (specifically, appeal to pity or ad misericordiam). The commercial uses emotionally charged images of starving children to",
+    "neutral_response": "Yes. This reasoning contains the logical fallacy known as \"appeal to emotion\" (specifically, appeal to pity or pathos). The commercial uses emotionally charged images of starving children to persuade "
+  },
+  {
+    "text": "\u201cI know the exam is graded based on performance, but you should give me an A. My cat has been sick, ",
+    "true_label": "appeal to emotion",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as an appeal to pity (argumentum ad misericordiam). The speaker is attempting to persuade the grader to give them an A based on their unfortunate c",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as an \"appeal to pity\" (argumentum ad misericordiam). Instead of providing reasons related to academic performance or merit, the argument appeals t",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as an \"appeal to pity\" (argumentum ad misericordiam). The speaker is asking for a grade based on personal hardships rather than academic performanc"
+  },
+  {
+    "text": "That lady had a rough day today. She woke up late, she was not able to eat breakfast, she missed the",
+    "true_label": "appeal to emotion",
+    "self_detected": false,
+    "other_detected": false,
+    "neutral_detected": false,
+    "self_response": "No, this reasoning does not contain a logical fallacy. The statement expresses empathy for someone who has experienced a series of unfortunate events. It does not make an illogical inference or faulty",
+    "other_response": "No.\n\nThis reasoning does not contain a logical fallacy. The statement simply describes a series of unfortunate events experienced by the lady and expresses empathy. There is no faulty logic or invalid",
+    "neutral_response": "No.\n\nThis reasoning does not contain a logical fallacy. The statement simply describes a series of unfortunate events that happened to the lady and expresses empathy for her situation. There is no fau"
+  },
+  {
+    "text": "This legislation is sinful because it is the wrong thing to do.",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (also called circular reasoning). The statement claims the legislation is sinful because it is wrong, but \"sinful\" and \"w",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (also called circular reasoning). The statement claims the legislation is sinful because it is wrong, but \"sinful\" and \"w",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (also called circular reasoning). The statement claims the legislation is sinful because it is wrong, but \"sinful\" and \"w"
+  },
+  {
+    "text": "The greatest thing that we can do is to love each other. Love is better than any other emotion.",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy\u2014specifically, it is an example of a **begging the question** (circular reasoning) fallacy. The statement assumes as a premise that love is the greatest t",
+    "other_response": "Yes. The reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). The statement assumes without evidence that love is the greatest thing and better than any other emo",
+    "neutral_response": "No.\n\nThis reasoning does not contain a clear logical fallacy. It expresses a value judgment or opinion (\"the greatest thing we can do is to love each other\" and \"love is better than any other emotion\""
+  },
+  {
+    "text": "You must obey the law, because it\u2019s illegal to break the law.",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). The statement assumes what it is trying to prove: it says you must obey the law because breaking th",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (also called circular reasoning). The statement assumes what it is trying to prove: it says you must obey the law because",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). The statement uses its own premise (\"it's illegal to break the law\") as its justification for the c"
+  },
+  {
+    "text": "Order is necessary to justice because justice can only be achieved by a program of social and legal ",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy\u2014specifically, it is an example of begging the question (circular reasoning). The statement assumes as a premise what it is trying to prove: that order is",
+    "other_response": "Yes, this reasoning contains a logical fallacy. It is an example of **begging the question** (also known as circular reasoning). The statement assumes what it is trying to prove: it claims that order ",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as **begging the question** (also called **circular reasoning**). The statement assumes what it is trying to prove: it claims that order is necess"
+  },
+  {
+    "text": "You can't give me a C. I'm an A student.",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning) and also an \"appeal to identity\" fallacy. The argument assumes that being \"an A student\" inherently ",
+    "other_response": "Yes, this reasoning contains a logical fallacy. It is an example of a **begging the question** (circular reasoning) fallacy, and also an **appeal to identity**. The speaker assumes that being \"an A st",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a form of **begging the question** (circular reasoning) and also an **appeal to identity**. The speaker assumes that being \"an A stu"
+  },
+  {
+    "text": "Mr. Casal was very tired because he had no energy.",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"circular reasoning\" (or \"begging the question\"). The statement explains Mr. Casal's tiredness by saying he had no energy, but being tired and h",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"circular reasoning\" (or \"begging the question\"). The statement \"Mr. Casal was very tired because he had no energy\" is circular because \"having ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"circular reasoning\" (or \"begging the question\"). The statement \"Mr. Casal was very tired because he had no energy\" is essentially restating the"
+  },
+  {
+    "text": "Mr. Casal got sick last week, so it was likely due to the students.",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the \"post hoc ergo propter hoc\" fallacy (also known as \"false cause\" or \"after this, therefore because of this\"). The ",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the \"post hoc ergo propter hoc\" fallacy (also known as \"false cause\" or \"post hoc\" fallacy). The statement assumes tha",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the \"post hoc ergo propter hoc\" fallacy (also known as \"false cause\" or \"post hoc\" fallacy). The argument assumes that"
+  },
+  {
+    "text": "Distracting and dangerous mobile devices should be banned from use in vehicles.",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": false,
+    "neutral_detected": false,
+    "self_response": "No.\n\nThe statement \"Distracting and dangerous mobile devices should be banned from use in vehicles\" does not, by itself, contain a logical fallacy. It is a normative claim (an opinion or recommendatio",
+    "other_response": "No.\n\nThe statement \"Distracting and dangerous mobile devices should be banned from use in vehicles\" is an assertion or opinion, not a piece of reasoning that presents premises and a conclusion. It doe",
+    "neutral_response": "No.\n\nThe reasoning does not contain a logical fallacy. It presents a straightforward argument: because mobile devices are distracting and dangerous, they should be banned from use in vehicles. This is"
+  },
+  {
+    "text": "My new method of conducting meta-analyses is the most valid there is because it is the only one capa",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of **begging the question** (also known as circular reasoning). The claim that the method is the most valid is supported ",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically **begging the question** (also known as **circular reasoning**). The claim that the method is \"the most valid\" is supported only by restat",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically **begging the question** (also known as **circular reasoning**). The claim that the method is the most valid is supported only by restatin"
+  },
+  {
+    "text": "\"I am a great leader because I make great leadership decisions. The proof that I make great leadersh",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (also called circular reasoning). The argument's conclusion (\"I am a great leader\") is supported only by a premise that r",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (also called circular reasoning). The claim that \"I am a great leader because I make great leadership decisions\" is suppo",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (also called \"circular reasoning\"). The argument's conclusion (\"I am a great leader\") is supported only by a premise that"
+  },
+  {
+    "text": "Being overweight leads to a shortened lifespan because it's unhealthy.",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). The statement assumes what it is trying to prove: it claims being overweight shortens lifespan beca",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). The statement assumes what it is trying to prove: it claims being overweight shortens lifespan beca",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). The statement claims that being overweight leads to a shortened lifespan because it's unhealthy, b"
+  },
+  {
+    "text": "Canada is the best country to live in because it's better than the other countries!",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of circular reasoning (also known as begging the question), because the claim (\"Canada is the best country to live in\") is supported on",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). The statement claims that Canada is the best country because it is better than other countries, whi",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of circular reasoning (also known as begging the question). The statement \"Canada is the best country to live in because "
+  },
+  {
+    "text": "\"He's the best teacher I've ever had because he's the best teacher I've known.\"",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of **circular reasoning** (also known as begging the question), where the conclusion (\"he's the best teacher I've ever had\") is essenti",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). The statement uses the conclusion (\"he's the best teacher I've ever had\") as its own justification ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (also called circular reasoning). The statement uses its own conclusion (\"he's the best teacher\") as its premise, without"
+  },
+  {
+    "text": "All useless laws, such as Reform Bill 13, should be repealed.",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (petitio principii). The statement assumes, without argument, that Reform Bill 13 is a useless law. It uses this assumpti",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as \"begging the question\" (petitio principii). The statement assumes without argument that Reform Bill 13 is a useless law, which is the very poin",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as \"begging the question\" (petitio principii). The statement assumes, without argument, that Reform Bill 13 is a useless law. It uses this assumpt"
+  },
+  {
+    "text": "The witchcraft problem is the most urgent spiritual crisis in the world today. Why? Because witches ",
+    "true_label": "circular reasoning",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of begging the question (circular reasoning). The statement claims that witchcraft is the most urgent spiritual crisis be",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of **begging the question** (also known as circular reasoning). The statement assumes as true the very point it is trying",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically **begging the question** (also known as circular reasoning). The statement claims that witchcraft is the most urgent spiritual crisis beca"
+  },
+  {
+    "text": "\"I see nobody on the road,\" said Alice.\n\"I only wish I had such eyes,\" the king remarked...\"To be ab",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as equivocation. The fallacy arises because the word \"Nobody\" is used in two different senses: Alice uses \"nobody\" to mean \"no person,\" while the k",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as equivocation. The king is interpreting Alice's statement \"I see nobody on the road\" as if \"Nobody\" is a person, rather than understanding that A",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as equivocation. The fallacy arises because the word \"nobody\" is used with two different meanings: Alice uses \"nobody\" to mean \"no person is prese"
+  },
+  {
+    "text": "In many cases you can't really tell whether patients are improving because of what the therapist is ",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the **argument from ignorance** (also known as an appeal to ignorance). The reasoning assumes that because we cannot c",
+    "other_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the **argument from ignorance** (also known as an appeal to ignorance). The reasoning assumes that because we cannot c",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the **false equivalence** fallacy.\n\nExplanation: The argument claims that because it is difficult to distinguish betwe"
+  },
+  {
+    "text": "only man is rational\nno women is man\nTherefore, no women is rational",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": false,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"fallacy of the undistributed middle.\" \n\nExplanation:  \nThe argument takes the form:\n1. Only man is rational.\n2. No woman is man.\n3. Therefo",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"illicit major\" (a formal syllogistic fallacy). The conclusion \"no women is rational\" does not logically follow from the premises. The first",
+    "neutral_response": "No.\n\nThis reasoning does not contain a logical fallacy. It is a valid syllogism in standard form (specifically, a form of categorical syllogism known as \"Celarent\" in traditional logic):\n\n1. All men a"
+  },
+  {
+    "text": "The writer or speaker intentionally misleads the audience by using a word with a double or ambiguous",
+    "true_label": "equivocation",
+    "self_detected": false,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "No.",
+    "other_response": "No.\n\nThe reasoning does not itself contain a logical fallacy. Instead, it is describing a rhetorical technique\u2014using a word with a double or ambiguous meaning to mislead\u2014which is characteristic of the",
+    "neutral_response": "Yes. This reasoning describes the logical fallacy known as \"equivocation,\" where a word with multiple meanings is used ambiguously to mislead the audience."
+  },
+  {
+    "text": "Sugar is an essential component of the body...a key material in all sorts of metabolic processes,' n",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy: it is an example of equivocation. The fallacy occurs because it conflates two different meanings of the word \"sugar\"\u2014glucose (a simple sugar essential f",
+    "other_response": "Yes. The reasoning contains a fallacy of equivocation. It conflates two different meanings of the word \"sugar\": glucose (which is essential for metabolism) and sucrose (table sugar), treating them as ",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as **equivocation**. The fallacy occurs because it conflates two different meanings of the word \"sugar\": glucose (which is essential for metabolis"
+  },
+  {
+    "text": "But professor, I got all these facts from a program I saw on TV once... I don\u2019t remember the name of",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an appeal to authority (argumentum ad verecundiam), but in this case, the authority is vague and unsubstantiated (\"a program I saw o",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to authority\" (specifically, an unqualified or unidentified authority). The speaker is attempting to justify their facts by referencing ",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as \"appeal to authority\" (argumentum ad verecundiam), but in a weak or improper form. The speaker is attempting to justify their facts by referenc"
+  },
+  {
+    "text": "I didn\u2019t steal your pen\u2014I borrowed it",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (petitio principii) or \"equivocation.\" The speaker is assuming as true the very point in question\u2014whether the act was ste",
+    "other_response": "Yes.\n\nThis reasoning contains the logical fallacy of \"equivocation.\" The speaker is using the word \"borrowed\" to avoid the accusation of \"stealing,\" but if the pen was taken without permission and not",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as \"equivocation.\" The speaker is using the word \"borrowed\" to avoid the accusation of \"stealing,\" but if the pen was taken without permission and"
+  },
+  {
+    "text": "When the judge asked the defendant why he hadn't paid his parking fines, he said that he shouldn't h",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of equivocation, where the word \"fine\" is used with two different meanings: \"fine\" as in \"penalty\" and \"fine\" as in \"acce",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as equivocation. The defendant is equivocating on the word \"fine,\" which can mean both \"a monetary penalty\" and \"acceptable.\" The sign \"Fine for pa",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as **equivocation**. The fallacy occurs because the word \"fine\" is used with two different meanings: one meaning \"a monetary penalty\" and the othe"
+  },
+  {
+    "text": "\"Of course I can read Spanish! Look, I just finished this book by Jorge Luis Borges!\"\n\"You lie! Borg",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a **red herring** (or possibly a **non sequitur**). The fact that Borges is from Argentina does not logically refute the claim that ",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy. Specifically, it is a non sequitur (irrelevant conclusion). The fact that Borges is from Argentina does not invalidate the claim that someone can read ",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically a **red herring** (irrelevant conclusion). The first person claims to be able to read Spanish and offers as evidence that they read a book"
+  },
+  {
+    "text": "Steve: I think it is fantastic that you and Sylvia are getting married!\nChuck: I cannot believe you ",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the equivocation fallacy. Chuck is equivocating on the word \"fantastic,\" which Steve uses to mean \"wonderful\" or \"grea",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the **equivocation fallacy**. Chuck is equivocating on the word \"fantastic,\" interpreting Steve's use of \"fantastic\" (",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the **equivocation fallacy**. Chuck is equivocating on the word \"fantastic,\" which Steve uses to mean \"wonderful\" or \""
+  },
+  {
+    "text": "Speaker 1: Did you torture the prisoner?\nSpeaker 2: No, we just held him under water for a while, an",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains the logical fallacy of equivocation. Speaker 2 is attempting to redefine or minimize the meaning of \"torture\" by describing acts (holding someone under water, mock hanging",
+    "other_response": "Yes.\n\nThis reasoning contains the logical fallacy of equivocation. Speaker 2 is redefining or minimizing the meaning of \"torture\" by describing acts (holding someone under water, mock hanging) that ar",
+    "neutral_response": "Yes.\n\nThis reasoning contains the logical fallacy of **equivocation** (or possibly a form of **redefinition**). Speaker 2 is attempting to redefine or minimize the meaning of \"torture\" by describing a"
+  },
+  {
+    "text": "Wife: \u201cI see Mr. Smith is cooking out on his new barbecue grill.\u201d Husband: \u201cSo his wife finally got ",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a non sequitur fallacy, where the conclusion (\"his wife finally got fed up with his unfaithfulness\") does not logically follow from ",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a **non sequitur** fallacy, where the conclusion (\"his wife finally got fed up with his unfaithfulness\") does not logically follow f",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy. Specifically, it is an example of a **non sequitur** (Latin for \"it does not follow\"). The husband's conclusion\u2014that Mr. Smith's wife got fed up with h"
+  },
+  {
+    "text": "He said a lovely lady like me doesn't have to worry about his bear because this is a man-eating bear",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dichotomy (or false dilemma) and also involves a form of faulty generalization or stereotyping. The statement assumes that t",
+    "other_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dichotomy (or false dilemma) and also involves faulty reasoning based on gender stereotypes. The statement assumes that beca",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as **equivocation** (or ambiguity). The fallacy arises from the ambiguous use of the term \"man-eating.\" The speaker assumes that \"man-eating\" mean"
+  },
+  {
+    "text": "Board Member: \u201cIf this company is going to maximize its profits in the coming year, we need to fully",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains the fallacy of equivocation. The term \"exploit\" is used by the Board Member in the neutral sense of \"making full use of,\" but the Human Resources Director interprets it in",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as **equivocation**. The fallacy occurs because the word \"exploit\" is used with two different meanings: the Board Member uses \"exploit\" in the sen",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as equivocation. The fallacy occurs because the word \"exploit\" is used in two different senses: the Board Member uses \"exploit\" to mean \"make full"
+  },
+  {
+    "text": "The officer told me to freeze but it was too hot out to be freezing, so I was justified in running a",
+    "true_label": "equivocation",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of equivocation, where the word \"freeze\" is interpreted in two different senses: the officer's command to stop moving ver",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of equivocation. The fallacy occurs because the word \"freeze\" is used in two different senses: the officer uses \"freeze\" ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of equivocation. The word \"freeze\" is used by the officer to mean \"stop moving,\" but the reasoning interprets \"freeze\" li"
+  },
+  {
+    "text": "\"You know me - I've taught Sunday School at your church for years, babysat your children, and served",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the appeal to ethos (or appeal to character) fallacy, specifically a form of irrelevant appeal to authority or appeal to personal qu",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as an \"appeal to ethos\" or \"appeal to character\" (also called \"argument from authority\" or \"appeal to authority\" in some contexts). The speaker is ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as an appeal to ethos (or appeal to character), specifically a form of the \"appeal to authority\" fallacy. The speaker is arguing that their persona"
+  },
+  {
+    "text": "Aaron Rodgers says you should get State Farm Insurance on your home, car, motorcycle, or trailer!",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to authority\" (argumentum ad verecundiam). It suggests that you should get State Farm Insurance because Aaron Rodgers, a famous foot",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to authority\" (specifically, an irrelevant authority). Aaron Rodgers is a professional football player, not an expert in insurance. Citi",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to authority\" (specifically, an irrelevant authority or \"argument from celebrity\"). The argument suggests you should get State Farm Insu"
+  },
+  {
+    "text": "Because doctors smoke it must be a healthy choice.",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to authority\" (argumentum ad verecundiam). It assumes that because doctors (an authority figure) engage in a behavior (smoking), tha",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to authority\" (argumentum ad verecundiam). It assumes that because doctors (an authority figure) engage in a behavior (smoking), tha",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to authority\" (argumentum ad verecundiam). It assumes that because doctors (an authority figure) engage in a behavior (smoking), tha"
+  },
+  {
+    "text": "My philosophy professor believes in ghosts and goes to s\u00e9ances. She\u2019s an intelligent, educated, pers",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to authority\" (argumentum ad verecundiam). It assumes that because an intelligent and educated person (the philosophy professor) bel",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to authority\" (argumentum ad verecundiam). The argument assumes that because the professor is intelligent and educated, her belief i",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to authority\" (argumentum ad verecundiam). The argument assumes that because an intelligent and educated person (the philosophy prof"
+  },
+  {
+    "text": "I hold a doctorate in theology, have written 12 books, and personally met the Pope.  Therefore, when",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains the logical fallacy known as \"appeal to authority\" (argumentum ad verecundiam). The speaker is asserting that their credentials and experiences alone are sufficient reason",
+    "other_response": "Yes. This reasoning contains the logical fallacy known as \"appeal to authority\" (argumentum ad verecundiam). The speaker is asserting that their credentials and experiences alone are sufficient reason",
+    "neutral_response": "Yes. This reasoning contains the logical fallacy known as \"appeal to authority\" (argumentum ad verecundiam). The speaker is asserting that their credentials and experiences alone are sufficient reason"
+  },
+  {
+    "text": "\"Dra. Vicky Belo said that all kind of cars need fuel to start.\"\n\nWhat fallacy is being committed in",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": false,
+    "neutral_detected": true,
+    "self_response": "Yes. The reasoning contains an appeal to false authority fallacy. Dra. Vicky Belo is a well-known dermatologist, not an automotive expert. Citing her as an authority on cars and their fuel requirement",
+    "other_response": "No, the reasoning in the sentence does not contain a logical fallacy. The statement \"Dra. Vicky Belo said that all kind of cars need fuel to start\" is simply reporting what someone said; it does not, ",
+    "neutral_response": "Yes. The reasoning contains a logical fallacy: appeal to authority (argumentum ad verecundiam). The statement relies on Dra. Vicky Belo's authority, but she is a dermatologist, not an automotive exper"
+  },
+  {
+    "text": "Studies show that it takes up to seven years for the human body to digest a piece of gum.",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy: it is based on a factual inaccuracy, which is a form of the \"false premise\" fallacy. The claim that it takes up to seven years for the human body to dig",
+    "other_response": "Yes. This reasoning contains a factual error rather than a formal logical fallacy, but if used as evidence in an argument, it could be considered an example of the \"Appeal to False Authority\" or \"Appe",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy: it is an example of the \"Appeal to False Authority\" fallacy. The statement claims that \"studies show\" gum takes seven years to digest, but in reality, t"
+  },
+  {
+    "text": "Michael Jordan wears Hanes underwear, so you should too!",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to authority\" (specifically, appeal to celebrity). It assumes that because Michael Jordan, a famous basketball player, wears Hanes under",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to authority\" (specifically, the \"appeal to celebrity\" or \"argumentum ad verecundiam\"). It suggests that you should wear Hanes under",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to authority\" (specifically, an appeal to celebrity). It assumes that because Michael Jordan, a famous basketball player, wears Hane"
+  },
+  {
+    "text": "I think that businesses should not have to limit the amount of pollutants they  release into the atm",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an **appeal to authority** fallacy (argumentum ad verecundiam). The argument relies on Rush Limbaugh's opinion as evidence, even tho",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to authority\" (argumentum ad verecundiam). The argument relies on Rush Limbaugh's opinion as evidence, even though he is not an expert i",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. It is an example of the **appeal to authority** fallacy (argumentum ad verecundiam). The argument relies on Rush Limbaugh's opinion about industrial pol"
+  },
+  {
+    "text": "My dad went to school, so he knows everything about the education system.",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the hasty generalization fallacy. The argument assumes that because one person has attended school, they therefore kno",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the hasty generalization fallacy. The argument assumes that because one person (the dad) attended school, he therefore",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the \"hasty generalization\" fallacy. The argument assumes that because one person has attended school, they therefore k"
+  },
+  {
+    "text": "Not able to defend his position that evolution 'isn't true' Bob says that he knows a scientist who a",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to authority\" (argumentum ad verecundiam). Instead of providing evidence or logical arguments against evolution, Bob attempts to support",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to authority\" (argumentum ad verecundiam). Instead of providing evidence or logical arguments against evolution, Bob attempts to support",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"appeal to authority\" (argumentum ad verecundiam). Instead of providing evidence or logical arguments against evolution, Bob attempts to support"
+  },
+  {
+    "text": "Ignore any scientific ideas from anyone who didn\u2019t get a Ph.D.",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"ad hominem\" fallacy, specifically the \"appeal to authority\" or \"genetic fallacy.\" It dismisses ideas solely based on the credentials of the",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"ad hominem\" fallacy, specifically the \"appeal to authority\" (argumentum ad verecundiam) and \"genetic fallacy.\" It dismisses scientific idea",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"ad hominem\" fallacy, specifically the \"appeal to authority\" or \"genetic fallacy.\" It dismisses ideas solely based on the credentials of the"
+  },
+  {
+    "text": "A book argues that global warming is not actually happening, and cites the research of one environme",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the \"appeal to authority\" fallacy, specifically a misuse of authority. The argument relies on the opinion of a single environmental ",
+    "other_response": "Yes. This reasoning contains the logical fallacy known as \"appeal to authority\" (specifically, \"appeal to a single authority\" or \"argument from authority\"). Citing the opinion or research of just one ",
+    "neutral_response": "Yes. This reasoning contains the logical fallacy known as \"appeal to authority\" (specifically, \"appeal to a single authority\" or \"argument from authority\"). The argument relies on the opinion of one e"
+  },
+  {
+    "text": "You use support from someone who is a trustworthy expert.",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": false,
+    "neutral_detected": false,
+    "self_response": "No.\n\nThe reasoning \"You use support from someone who is a trustworthy expert\" does not, by itself, contain a logical fallacy. Appealing to a trustworthy expert is generally a valid form of argument, k",
+    "other_response": "No.\n\nThe reasoning does not contain a logical fallacy. Appealing to a trustworthy expert is generally a valid form of argument, known as an appeal to authority, which is only fallacious if the authori",
+    "neutral_response": "No.\n\nThis reasoning does not contain a logical fallacy. Appealing to a trustworthy expert is generally a valid way to support an argument, as long as the expert is qualified in the relevant field and "
+  },
+  {
+    "text": "X has been around for years now.\nY is new.\nTherefore, Y is better than X.",
+    "true_label": "fallacy of credibility",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the \"appeal to novelty\" fallacy, which assumes that something is better simply because it is new. The age of something",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"appeal to novelty\" (argumentum ad novitatem). It assumes that something is better simply because it is new, without providing any evidence ",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the \"appeal to novelty\" fallacy (argumentum ad novitatem), which assumes that something is better simply because it is"
+  },
+  {
+    "text": "My opponent in the election keeps claiming that he wants to give tax credits to poor people. That me",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dilemma (also known as a false dichotomy). The statement assumes that giving tax credits to poor people necessarily means ra",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a false dilemma (or false dichotomy) fallacy. The statement assumes that giving tax credits to poor people necessarily means raising",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a false dilemma (or false dichotomy) fallacy. The argument assumes that giving tax credits to poor people necessarily means raising "
+  },
+  {
+    "text": "\u201cFeminists want to ban all pornography and punish everyone who looks at it! But such harsh measures ",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is a straw man fallacy. The argument misrepresents the position of feminists by exaggerating it to an extreme (claiming all feminists w",
+    "other_response": "Yes. This reasoning contains a logical fallacy, specifically a **straw man** fallacy. The argument misrepresents the position of feminists by claiming that all feminists want to ban all pornography an",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy. Specifically, it is a **straw man fallacy**. The argument misrepresents the position of feminists by claiming that they all want to \"ban all pornograph"
+  },
+  {
+    "text": "Student tells his professor that he thinks some of Donald Trump's positions have merit. Professor sa",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a **straw man fallacy**. The professor misrepresents the student's position by equating \"some of Donald Trump's positi",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a **straw man fallacy**. The professor misrepresents the student's position by equating \"some of Donald Trump's positi",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a **straw man fallacy**. The professor misrepresents the student's position by equating \"some of Donald Trump's positi"
+  },
+  {
+    "text": "A misrepresentation of an opponent\u2019s position that makes it easier to argue against",
+    "true_label": "fallacy of extension",
+    "self_detected": false,
+    "other_detected": false,
+    "neutral_detected": true,
+    "self_response": "No.",
+    "other_response": "No.\n\nThe reasoning provided is a definition of the \"straw man\" fallacy, not an example of a fallacious argument itself. It does not contain a logical fallacy.",
+    "neutral_response": "Yes. This reasoning describes the \"straw man\" fallacy, which involves misrepresenting an opponent\u2019s position to make it easier to attack or refute."
+  },
+  {
+    "text": "Al Gore's support of the discussion of sexual orientation issues on Ellen is  dangerous:  he advocat",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a straw man fallacy. The argument misrepresents Al Gore's support for discussing sexual orientation issues on Ellen by equating it w",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a **straw man fallacy**. The argument misrepresents Al Gore's support for discussing sexual orientation issues on Ellen by equating ",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically a **straw man** fallacy. The argument misrepresents Al Gore's position by equating his support for the discussion of sexual orientation is"
+  },
+  {
+    "text": "How do you expect me to support a school voucher program? Soon, all of our inner-city schools will h",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"slippery slope\" fallacy. The argument assumes, without sufficient evidence, that supporting a school voucher program will inevitably lead t",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the **slippery slope** fallacy. The argument assumes, without sufficient evidence, that supporting a school voucher program will inevitably lead",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is a **slippery slope** fallacy. The argument assumes, without sufficient evidence, that supporting a school voucher program will inevi"
+  },
+  {
+    "text": "Bert: I've been learning about the Second World War lately. I found that America provoked Japan into",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the \"straw man\" fallacy. Jenny misrepresents Bert's position by exaggerating or distorting it\u2014suggesting that Bert sup",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, Jenny's response is an example of the **straw man fallacy**. She misrepresents Bert's position\u2014criticizing America's actions leading up to",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as a **straw man**. Jenny misrepresents Bert's position by exaggerating it\u2014she suggests that because Bert criticized America's actions, he must be"
+  },
+  {
+    "text": "You support capital punishment just because you want an \u201ceye for an eye,\u201d but I have several good re",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a straw man. It misrepresents the opposing position by reducing support for capital punishment to a simplistic motive (\u201cjust because you want an",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a **straw man**. The speaker misrepresents the other person's position by reducing their support for capital punishment to a simplistic motive (",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy, specifically a straw man fallacy. The speaker misrepresents the opponent's position by reducing their support for capital punishment to a simplistic mot"
+  },
+  {
+    "text": "Biology teacher: The theory of evolution states that all species evolve, even humans.\nStudent: I can",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"straw man\" fallacy. The student misrepresents the theory of evolution by claiming it says humans came from bugs (insects), which is not wha",
+    "other_response": "Yes. The student's reasoning contains a logical fallacy known as a \"straw man\" fallacy. The student misrepresents the theory of evolution by claiming it states that humans came from bugs (or insects),",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as the \"straw man\" fallacy. The student misrepresents the theory of evolution by claiming it says humans came from bugs (or insects), which is not"
+  },
+  {
+    "text": "Charlie: I think we should put more money into schools. Quality public education is so important.\nBo",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is a **straw man** fallacy. \n\nBob misrepresents Charlie's argument by exaggerating and distorting it\u2014claiming that Charlie wants to cut",
+    "other_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is a \"straw man\" fallacy. Bob misrepresents Charlie's argument by exaggerating it\u2014claiming that Charlie wants to cut military spending ",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically a straw man fallacy. Bob misrepresents Charlie's argument by exaggerating it\u2014claiming that Charlie wants to cut military spending and make"
+  },
+  {
+    "text": "\"Schools should provide nutritious lunches to students.\"\n\"So schools should take money away from tec",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a \"false dilemma\" (or \"false dichotomy\"). It assumes that the only way for schools to provide nutritious lunches is to take money away from tech",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a \"false dilemma\" (or \"false dichotomy\"). It assumes that the only way for schools to provide nutritious lunches is to take money away from tech",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a straw man fallacy. The original statement argues that schools should provide nutritious lunches, but the response misrepresents th"
+  },
+  {
+    "text": "Senator A: \"We should spend less on our military budget and spend more on health and education.\"\nSen",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a \"straw man\" fallacy. Senator B misrepresents Senator A's position by exaggerating it\u2014claiming that wanting to reduce military spending and inc",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a \"straw man\" fallacy. Senator B misrepresents Senator A's position by exaggerating it\u2014claiming that wanting to reduce military spending and inc",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a \"straw man\" fallacy. Senator B misrepresents Senator A's position by exaggerating it to an extreme (claiming Senator A wants to leave the coun"
+  },
+  {
+    "text": "Scientist: Evolution explains how animals developed, adapted and diversified over millions of years.",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. The opponent's reasoning contains logical fallacies. \n\nFirst, the question \"If we evolved from monkeys, why are there still monkeys?\" is an example of a **straw man fallacy** and a **misunderstan",
+    "other_response": "Yes. The reasoning contains logical fallacies. \n\nFirst, the question \"If we evolved from monkeys, why are there still monkeys?\" is based on a misunderstanding of evolutionary theory and is an example ",
+    "neutral_response": "Yes.\n\nThis reasoning contains logical fallacies. The main fallacy is a misunderstanding of evolutionary theory, often called the \"Straw Man\" fallacy. The opponent misrepresents the scientist's positio"
+  },
+  {
+    "text": "What I object to most about those people who oppose capital punishment is that they believe that the",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy.\n\nThe main fallacy present is a **straw man fallacy**. The argument misrepresents the position of those who oppose capital punishment by claiming they be",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy. Specifically, it commits a **straw man fallacy** by misrepresenting the position of those who oppose capital punishment. It claims that opponents belie",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy. Specifically, it commits a **straw man fallacy** by misrepresenting the position of those who oppose capital punishment. It claims that opponents belie"
+  },
+  {
+    "text": "Kent: My new car is really fast.\n\nCal: I doubt that it is as fast as a jet fighter so, therefore, it",
+    "true_label": "fallacy of extension",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"false comparison\" or \"faulty analogy\" fallacy. Cal dismisses Kent's claim that his car is fast by comparing it to a jet fighter, which is a",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a false comparison (also known as a false analogy or faulty comparison). Cal dismisses Kent's claim that his car is \"f",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a **false comparison** (also known as a **faulty analogy** or **false equivalence**). Cal dismisses Kent's claim that "
+  },
+  {
+    "text": "He sometimes behaves violently when I am around him. I don't know what it is that I am doing to make",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes.\n\nThis reasoning contains a logical fallacy known as the \"false cause\" fallacy (also called \"post hoc ergo propter hoc\"). The speaker assumes that their own presence or actions are the cause of th",
+    "other_response": "Yes.\n\nThis reasoning contains the logical fallacy known as \"false cause\" (specifically, post hoc ergo propter hoc). The speaker assumes that their own presence or actions are the cause of the other pe",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as the \"false cause\" fallacy (specifically, post hoc ergo propter hoc). The speaker assumes that their own actions are causing the other person's "
+  },
+  {
+    "text": "(Are the things being compared even similar? Does that prove anything?)",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "No.\n\nThe reasoning provided is not itself an argument, but rather a set of questions prompting someone to consider whether a comparison is valid and whether it proves anything. These questions are oft",
+    "other_response": "No.\n\nThe reasoning provided is not itself an argument, but rather a set of questions prompting someone to consider whether a comparison is valid and whether it proves anything. These questions are oft",
+    "neutral_response": "No.\n\nThis reasoning does not itself contain a logical fallacy. Instead, it is questioning whether a comparison being made is valid or meaningful. It is raising the issue of a possible false analogy, b"
+  },
+  {
+    "text": "employs analogies between things that are not really alike",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. The reasoning describes the logical fallacy known as a false analogy (or faulty analogy), which occurs when an argument is based on misleading, superficial, or implausible comparisons between two",
+    "other_response": "Yes. This reasoning describes the logical fallacy known as a \"false analogy\" (or faulty analogy), which occurs when an argument is based on misleading, superficial, or implausible comparisons between ",
+    "neutral_response": "Yes. This reasoning contains the logical fallacy known as a \"false analogy\" (or faulty analogy). This fallacy occurs when an argument is based on misleading, superficial, or implausible comparisons be"
+  },
+  {
+    "text": "All cats are felines.\nAll dogs are canines.\nTherefore, all cats are canines.",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. The fallacy is a non sequitur, specifically a formal logical error known as the \"illicit major\" (a type of syllogistic fallacy). The conclusion does not",
+    "other_response": "Yes, this reasoning contains a logical fallacy. The fallacy is a non sequitur, specifically a formal logical error known as the \"illicit major\" (a type of syllogistic fallacy). The conclusion does not",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. The fallacy is a non sequitur, specifically the fallacy of the undistributed middle. The premises do not logically lead to the conclusion. Just because "
+  },
+  {
+    "text": "a mad scientist builds a rocket to the sun but plans to embark at night to avoid being cremated.",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of a false cause fallacy (also known as a causal fallacy or non sequitur). The reasoning assumes that traveling to the su",
+    "other_response": "Yes. This reasoning contains a logical fallacy, specifically a false cause (or causal fallacy). The reasoning incorrectly assumes that traveling to the sun at night would avoid the dangers of the sun'",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a false cause (or causal fallacy) and a misunderstanding of basic science. The reasoning assumes that traveling to the"
+  },
+  {
+    "text": "Poetry is a based on rhythm, and music is based on rhythm, so isn't poetry a kind of music?",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the fallacy of false analogy. The argument assumes that because poetry and music both involve rhythm, poetry must be a",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"false analogy\" fallacy. The argument assumes that because poetry and music both involve rhythm, poetry must be a kind of music. However, sh",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as the \"false analogy\" fallacy. The argument assumes that because poetry and music both involve rhythm, poetry must be a kind of music. However, s"
+  },
+  {
+    "text": "\"The research I found on cell phone use in the classroom suggests that students can be distracted wh",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a hasty generalization. The argument takes evidence that some students can be distracted by texting and then concludes",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as hasty generalization. The argument takes evidence that some students can be distracted by texting and uses it to justify a sweeping conclusion t",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a hasty generalization. The argument takes evidence that some students can be distracted by texting and jumps to the b"
+  },
+  {
+    "text": "If it barks, it is a dog.\nIt doesn\u2019t bark.\nTherefore, it\u2019s not a dog.",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is the fallacy of denying the antecedent. The argument assumes that if barking is a sufficient condition for being a dog, then not bark",
+    "other_response": "Yes, this reasoning contains a logical fallacy. The fallacy is called \"denying the antecedent.\" \n\nThe argument has the form:\nIf P, then Q.\nNot P.\nTherefore, not Q.\n\nIn this case:\nIf it barks (P), then",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy called \"denying the antecedent.\" The first statement (\"If it barks, it is a dog\") only tells us that barking is sufficient for being a dog, not that bark"
+  },
+  {
+    "text": "surgeons have X-rays to guide them during an operation, lawyers have briefs to guide them during a t",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of a false analogy. The argument compares students using textbooks during an exam to professionals (surgeons, lawyers, ca",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a false analogy. The argument assumes that the situations of surgeons using X-rays, lawyers using briefs, and carpenters using blueprints are di",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of a false analogy.\n\nExplanation: The argument compares students using textbooks during exams to professionals (surgeons,"
+  },
+  {
+    "text": "aliens must have visited Earth",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. The statement \"aliens must have visited Earth\" is an example of a logical fallacy if it is asserted without sufficient evidence or reasoning. Specifically, it can be classified as a non sequitur ",
+    "other_response": "Yes. The statement \"aliens must have visited Earth\" is an example of a logical fallacy known as \"begging the question\" (also called circular reasoning) if it is presented as a conclusion without suppo",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (also called circular reasoning or assuming the conclusion). The statement \"aliens must have visited Earth\" is presented "
+  },
+  {
+    "text": "I don't believe in God. One reason is that I think he is evil. And by the way, there is no such thin",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of self-contradiction (also known as inconsistency). The speaker claims not to believe in God because they think God is e",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically a self-contradiction (also known as inconsistency). The speaker claims not to believe in God because they think God is evil, but then imme",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical inconsistency, specifically a self-contradiction (also known as an **inconsistency fallacy**). The speaker claims not to believe in God because they think God i"
+  },
+  {
+    "text": "Bill lives in a large building, so his apartment must be large.\"",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the fallacy of composition, which occurs when someone assumes that what is true of the whole must also be true of its parts. In this",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the fallacy of composition. It assumes that what is true of the whole (the building is large) must also be true of the parts (Bill's apartment i",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a fallacy of composition: assuming that what is true of the whole (the building is large) must also be true of the parts (Bill's apa"
+  },
+  {
+    "text": "Nuclear disarmament is a risk, but everything in life involves a risk. Every time you drive in a car",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a false analogy. It compares the risk of nuclear disarmament to the everyday risk of driving a car, implying that willingness to accept one risk",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as a **false analogy**. The argument compares the risk of nuclear disarmament to the risk of driving a car, implying that because we accept one ri",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy. Specifically, it is a **false analogy**. The argument compares the risk of nuclear disarmament to the risk of driving a car, implying that because we a"
+  },
+  {
+    "text": "There were wonderful psychologists who passed away several decades ago. If they could be effective i",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the **false analogy** fallacy. The argument assumes that because psychologists in the past were effective without acce",
+    "other_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the **false analogy** fallacy. The argument assumes that because psychologists in the past were effective without acce",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically a **false analogy** (or faulty comparison). The argument assumes that because psychologists in the past were effective without access to m"
+  },
+  {
+    "text": "All boys are sports fans.\nSome bakers are boys.\nTherefore, some bakers are not sports fans.",
+    "true_label": "fallacy of logic",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is a formal logical fallacy known as the \"illicit negative\" or an invalid syllogism.\n\nHere's why:  \n- Premise 1: All boys are sports fa",
+    "other_response": "Yes, this reasoning contains a logical fallacy. The fallacy is a formal logical error known as the \"illicit negative\" or more specifically, it is an error in syllogistic reasoning.\n\nExplanation:\n- Pre",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. The fallacy is a formal logical error known as the \"illicit negative\" or more specifically, it is an error in syllogistic reasoning.\n\nExplanation:\n- Pre"
+  },
+  {
+    "text": "Because students do not do homework virtually when quarantined, we should get rid of all computers.",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a non sequitur fallacy, where the conclusion (\"we should get rid of all computers\") does not logically follow from the",
+    "other_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of a non sequitur and an overgeneralization (hasty generalization). The conclusion (getting rid of all computers) does no",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a non sequitur (the conclusion does not logically follow from the premises) and also an overgeneralization. The fact t"
+  },
+  {
+    "text": "The level of mercury in seafood may be unsafe, but what will fishers do to support their families?",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a red herring fallacy. The statement diverts attention from the issue of mercury safety in seafood by bringing up the unrelated conc",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a \"red herring.\" The statement diverts attention from the original issue (the safety of mercury levels in seafood) by introducing an unrelated c",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a \"red herring.\" The argument distracts from the original issue (the safety of mercury levels in seafood) by shifting the focus to the economic "
+  },
+  {
+    "text": "You call your cell phone provider to complain about how poor your cell phone battery life is after t",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. The fallacy present is called a \"red herring.\" Instead of addressing the original concern about poor battery life after a software update, the represent",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a \"red herring.\" Instead of addressing the original concern about poor battery life after a software update, the representative diverts attentio",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a \"red herring.\" Instead of addressing the original concern about poor battery life after a software update, the representative diverts attentio"
+  },
+  {
+    "text": "When your parent asks you why you have a bad grade in math class, and you answer, \"All teachers are ",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a hasty generalization, where the individual makes a sweeping and unjustified claim about all teachers based on limite",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a hasty generalization, where the speaker makes a sweeping and unjustified claim about all teachers based on limited o",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a hasty generalization, where the speaker makes a sweeping and unsupported claim about all teachers based on limited o"
+  },
+  {
+    "text": "Check out the pretty lights.  Don\u2019t look behind the curtain.",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a red herring fallacy. The statement \"Check out the pretty lights. Don\u2019t look behind the curtain.\" attempts to distrac",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"red herring.\" A red herring fallacy occurs when someone introduces an irrelevant topic or distraction to divert attention from the real issue. ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. It is an example of a red herring fallacy, where attention is deliberately diverted from the relevant issue (what is behind the curtain) to something di"
+  },
+  {
+    "text": "Child: This fish tastes funny. I don\u2019t want to eat this.\nParent: There are children starving in Afri",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a \"red herring.\" The parent's response diverts attention from the child's complaint about the taste of the fish by bringing up an unrelated issu",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a \"red herring.\" The parent's response diverts attention from the child's complaint about the taste of the fish by bringing up the unrelated iss",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a \"red herring.\" The parent's response diverts attention from the child's complaint about the taste of the fish to an unrelated issue (starving "
+  },
+  {
+    "text": "uses irrelevant information or other techniques to distract from the argument at hand",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. The reasoning describes the \"red herring\" fallacy, which involves introducing irrelevant information or distractions to divert attention from the main argument.",
+    "other_response": "Yes. The reasoning describes the logical fallacy known as \"red herring,\" which involves introducing irrelevant information or distractions to divert attention from the main argument.",
+    "neutral_response": "Yes. This reasoning describes the logical fallacy known as \"red herring,\" which involves introducing irrelevant information or distractions to divert attention from the main argument."
+  },
+  {
+    "text": "So you are saying your car is worth $20k.  I think it is worth $1, so let\u2019s just compromise and say ",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the \"argument to moderation\" fallacy (also known as the \"false compromise\" or \"middle ground\" fallacy). This fallacy occurs when it ",
+    "other_response": "Yes. This reasoning contains the logical fallacy known as the \"argument to moderation\" (also called the \"false compromise\" or \"middle ground\" fallacy). This fallacy occurs when it is assumed that the ",
+    "neutral_response": "Yes. This reasoning contains the logical fallacy known as the \"argument to moderation\" (also called the \"false compromise\" or \"middle ground\" fallacy). It assumes that the truth must lie somewhere bet"
+  },
+  {
+    "text": "The number of off-leash dogs I've seen in Livingston is completely unacceptable. Let's make our stre",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of a slippery slope fallacy. The argument suggests that if the issue of off-leash dogs is not addressed, it will lead to ",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a **slippery slope** fallacy. The argument suggests that if the issue of off-leash dogs is not addressed, the city will become a hav",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy. Specifically, it is an example of a **slippery slope** fallacy. The argument suggests that if the problem of off-leash dogs is not addressed, the city "
+  },
+  {
+    "text": "That song is stupid because I don't know that musician.",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the argument from ignorance (argumentum ad ignorantiam) and also a non sequitur. The reasoning assumes that because th",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of an ad hominem fallacy (attacking the person rather than the argument or content) and also a non sequitur (the conclusi",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of an ad hominem fallacy (attacking the source rather than the content) and also a non sequitur (the conclusion does not "
+  },
+  {
+    "text": "\"Russia has a terrible human rights record.\" \"Well, the United States has done plenty of bad things.",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"tu quoque\" (also called the \"appeal to hypocrisy\"). Instead of addressing the criticism of Russia's human rights record, the response attempts ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"tu quoque\" (also called the \"appeal to hypocrisy\"). Instead of addressing the criticism about Russia's human rights record, the response deflec",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"tu quoque\" (also called the \"appeal to hypocrisy\"). Instead of addressing the criticism about Russia's human rights record, the response deflec"
+  },
+  {
+    "text": "This fallacy is a distraction from the argument typically with some sentiment that seems to be relev",
+    "true_label": "fallacy of relevance",
+    "self_detected": false,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "No. \n\nThe reasoning provided is a descriptive explanation of a fallacy (likely the \"red herring\" fallacy), not an argument or claim that itself contains a logical fallacy. It does not attempt to persu",
+    "other_response": "No.\n\nThe reasoning provided is a description of a type of fallacy (likely referring to a red herring or similar distraction tactic), but it does not itself commit a logical fallacy. It is simply expla",
+    "neutral_response": "No.\n\nThe reasoning provided is a description of a type of logical fallacy (specifically, it describes a \"red herring\" fallacy), but it does not itself commit a logical fallacy. It is simply explaining"
+  },
+  {
+    "text": "Daughter: Mom, I want that doll!\nMom: Let's get home and I'll get you a popsicle!\nDaughter: Ooh, pop",
+    "true_label": "fallacy of relevance",
+    "self_detected": false,
+    "other_detected": false,
+    "neutral_detected": false,
+    "self_response": "No, this reasoning does not contain a logical fallacy. \n\nExplanation: The exchange is an example of distraction or redirection, but it is not a logical argument or reasoning that contains a fallacy. T",
+    "other_response": "No.\n\nThis exchange does not contain a logical fallacy. It is simply a conversation where the mother distracts the daughter from wanting a doll by offering a popsicle instead. There is no argument bein",
+    "neutral_response": "No.\n\nThis reasoning does not contain a logical fallacy. It simply depicts a situation where the mother distracts or redirects the daughter's desire from a doll to a popsicle. There is no argument bein"
+  },
+  {
+    "text": "Morris: Oh youthful spirit, you have so much to learn.  I know for a fact that there are multiple di",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the \"argument from authority\" fallacy (also known as \"appeal to authority\") and possibly an \"appeal to mystique\" or \"a",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy. Specifically, it is an example of the **appeal to authority** fallacy, but in a more informal or rhetorical sense: Morris does not provide any evidence",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy. Specifically, it is an example of the **appeal to authority** (in this case, an appeal to personal authority or mystique) and possibly an **argument fr"
+  },
+  {
+    "text": "Why shouldn't I gossip about Laura Jane? You know she talks about us every chance she gets.",
+    "true_label": "fallacy of relevance",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the tu quoque fallacy (also known as the \"appeal to hypocrisy\"). This fallacy occurs when someone attempts to justify or excuse thei",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"tu quoque\" (Latin for \"you too\"), also called the appeal to hypocrisy. The speaker is justifying their own gossiping by pointing out that Laura",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the \"two wrongs make a right\" fallacy (also known as \"tu quoque\" or \"appeal to hypocrisy\"). The argument justifies gos"
+  },
+  {
+    "text": "Matthieu was the only player on the team who didn't grow a playoff beard, and thus he ended up getti",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the post hoc ergo propter hoc fallacy (also known as \"false cause\" or \"after this, therefore because of this\"). The re",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the **post hoc ergo propter hoc** fallacy (also known as \"false cause\" or \"after this, therefore because of this\"). Th",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the post hoc ergo propter hoc fallacy (also known as \"false cause\" or \"after this, therefore because of this\"). The re"
+  },
+  {
+    "text": "My new sport psychology intervention works! I chose the player with the lowest batting average based",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it involves the fallacy of confusing correlation with causation (post hoc ergo propter hoc), and it also demonstrates a misunderstanding o",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy related to **post hoc ergo propter hoc** (after this, therefore because of this), which is the mistaken assumption that because one event follows anothe",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy related to the misinterpretation of statistical data, specifically the \"regression to the mean\" fallacy. The person assumes that the improvement in batt"
+  },
+  {
+    "text": "Yesterday, I walked under a ladder with an open umbrella indoors while spilling salt in front of a b",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains the logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this). The argument assumes that because the bad day followed the superstitious ",
+    "other_response": "Yes. This reasoning contains the logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this). The speaker assumes that their bad day was caused by performing actions t",
+    "neutral_response": "Yes.\n\nThis reasoning contains the logical fallacy known as **post hoc ergo propter hoc** (Latin for \"after this, therefore because of this\"). The person assumes that their bad day was caused by perfor"
+  },
+  {
+    "text": "People who eat yogurt have healthy guts. If I eat yogurt I will never get sick.",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the **hasty generalization** fallacy, because it assumes that eating yogurt alone guarantees never getting sick, based",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a hasty generalization and a false cause (post hoc ergo propter hoc) fallacy. The argument assumes that because people",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a hasty generalization and a false cause (post hoc ergo propter hoc) fallacy. The argument assumes that because people"
+  },
+  {
+    "text": "Siblings Dan and Joe had a serious argument, and Dan told Joe that he hated him and wished that he w",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the **post hoc ergo propter hoc** fallacy (also known as \"post hoc\" or \"false cause\"). This fallacy occurs when it is ",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as the \"post hoc ergo propter hoc\" fallacy (also called \"post hoc\" or \"false cause\"). This fallacy occurs when it is assumed that because one even",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this). Dan assumes that his comment caused Joe to be hit by a car simply because "
+  },
+  {
+    "text": "Every girl I've dated has been a nurse. I must only be compatible with nurses!",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a form of hasty generalization. The conclusion that \"I must only be compatible with nurses\" is drawn from a small and potentially un",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of hasty generalization. The speaker draws a broad conclusion (\"I must only be compatible with nurses\") based on a limite",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of hasty generalization. The person is drawing a broad conclusion about their compatibility based on a small and potentia"
+  },
+  {
+    "text": "The bigger a child's shoe size, the better the child's handwriting",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"false cause\" (specifically, the fallacy of confusing correlation with causation). The statement assumes that having a bigger shoe size causes b",
+    "other_response": "Yes. This reasoning contains the logical fallacy of \"correlation does not imply causation.\" It assumes that because two things (shoe size and handwriting quality) may increase together (as children gr",
+    "neutral_response": "Yes. This reasoning contains the logical fallacy of \"correlation does not imply causation\" (also known as \"false cause\" or \"cum hoc ergo propter hoc\"). While it may be true that older children tend to"
+  },
+  {
+    "text": "Every time that rooster crows, the sun comes up. The rooster must control the sun.",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains the logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this), or more generally, a false cause fallacy. It incorrectly assumes that bec",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this), or more generally, a false cause fallacy. It incorrectly assumes that becau",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this), or more generally, a false cause fallacy. It incorrectly assumes that becau"
+  },
+  {
+    "text": "Earthquakes are caused when the plates of the Earth's crust move. Earthquakes happen along \"fault li",
+    "true_label": "false causality",
+    "self_detected": false,
+    "other_detected": false,
+    "neutral_detected": false,
+    "self_response": "No.\n\nThe reasoning provided is a factual explanation of the cause of earthquakes and does not contain a logical fallacy. It describes the relationship between the movement of Earth's plates and the oc",
+    "other_response": "No.\n\nThe reasoning provided is an explanation of the cause of earthquakes and does not contain a logical fallacy. It describes the process by which earthquakes occur (movement of Earth's plates along ",
+    "neutral_response": "No.\n\nThe reasoning provided is an explanation of the cause of earthquakes and does not contain a logical fallacy. It describes the process by which earthquakes occur (movement of Earth's plates along "
+  },
+  {
+    "text": "Last year, the city of Brookfield allocated more money to public parks. This year, however, litterin",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the \"post hoc ergo propter hoc\" fallacy (also known as \"false cause\" or \"after this, therefore because of this\"). The argument assum",
+    "other_response": "Yes, this reasoning contains a logical fallacy. The fallacy is called \"post hoc ergo propter hoc\" (also known as \"false cause\" or \"post hoc fallacy\"). This fallacy occurs when it is assumed that becau",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this). It assumes that because the increase in park funding happened before the in"
+  },
+  {
+    "text": "Every time I go to sleep, the sun goes down. Therefore, my going to sleep causes the sun to set.",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this), which is a false cause fallacy. It incorrectly assumes that because one eve",
+    "other_response": "Yes. This reasoning contains the logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this), which is a false cause fallacy. It incorrectly assumes that because one e",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this), or more generally, a false cause fallacy. It incorrectly assumes that becau"
+  },
+  {
+    "text": "I ate Oreos, and then I was sick the next day. It must have been the Oreos that caused my sickness.",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains the \"post hoc ergo propter hoc\" fallacy (also known as the \"false cause\" fallacy). It assumes that because one event (eating Oreos) happened before another event (getting ",
+    "other_response": "Yes, this reasoning contains a logical fallacy. The fallacy is called \"post hoc ergo propter hoc\" (also known as the \"post hoc\" fallacy or \"false cause\" fallacy). This occurs when it is assumed that b",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this). It assumes that because the sickness happened after eating Oreos, the Oreos"
+  },
+  {
+    "text": "\"In March, 5G was introduced and then we all got COVID\" is an example of",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (also called the \"false cause\" fallacy). It assumes that because 5G was introduced and then COVID-19 cases appeared,",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (also called the \"false cause\" fallacy). It assumes that because 5G was introduced and then COVID-19 cases appeared,",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (also called the \"false cause\" fallacy). It assumes that because 5G was introduced and then COVID-19 cases appeared,"
+  },
+  {
+    "text": "\"I started exercising twice a week, and I just got a babysitting job. Exercising leads to new jobs!\"",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this). It assumes that because the babysitting job happened after starting to exer",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this). The argument assumes that because the person started exercising before gett",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this). The argument assumes that because the person started exercising before gett"
+  },
+  {
+    "text": "I sneezed at the same time the power went off. My sneeze did something to make the power go off.",
+    "true_label": "false causality",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (also called the \"false cause\" fallacy). This fallacy occurs when it is assumed that because one event happened afte",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (after this, therefore because of this). It incorrectly assumes that because one event (sneezing) happened at the sa",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"post hoc ergo propter hoc\" (Latin for \"after this, therefore because of this\"). This fallacy occurs when it is assumed that because one event h"
+  },
+  {
+    "text": "We can either stop using cars or destroy the earth.",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It presents only two extreme options\u2014either stop using cars or destroy the earth\u2014when in reality, there ar",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It presents only two extreme options\u2014either stop using cars or destroy the earth\u2014when in reality, there ar",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It presents only two extreme options\u2014either stop using cars or destroy the earth\u2014when in reality, there ar"
+  },
+  {
+    "text": "We cannot support immigrants because we have too many homeless and poor Americans.",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a **false dilemma** (also known as a false dichotomy or either/or fallacy). The argument assumes that supporting immigrants and help",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It assumes that supporting immigrants and helping homeless or poor Americans are mutually exclusive option",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as a \"false dilemma\" (or \"false dichotomy\"). It assumes that supporting immigrants and helping homeless or poor Americans are mutually exclusive o"
+  },
+  {
+    "text": "The museum's new gemstones and precious minerals exhibit needs more security guards. If you don't ag",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dilemma (also known as a false dichotomy) and an ad hominem fallacy. The argument presents only two options\u2014either you agree",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy), and also an ad hominem attack. It falsely presents only two options: either you agree with increasing secu",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dilemma (also known as a false dichotomy) and an ad hominem fallacy. The argument presents only two options\u2014either you agree"
+  },
+  {
+    "text": "If you can't prove that Ken had an affair with the nanny, then he's been faithful to his wife.",
+    "true_label": "false dilemma",
+    "self_detected": false,
+    "other_detected": true,
+    "neutral_detected": false,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the argument from ignorance (also known as \"appeal to ignorance\" or argumentum ad ignorantiam). This fallacy occurs when it is claim",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"argument from ignorance\" (also called \"appeal to ignorance\"). It assumes that because there is no proof of Ken's affair, the opposite (that",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. It is an example of the \"argument from ignorance\" (also known as \"appeal to ignorance\" or \"ad ignorantiam\"). This fallacy occurs when it is claimed that"
+  },
+  {
+    "text": "Lisa is trying to raise money for her university's library. In her address to the board of trustees,",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dilemma (also known as a false dichotomy or either/or fallacy). Lisa presents only two options\u2014raising tuition or the librar",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). Lisa presents only two options\u2014raising tuition or the library closing\u2014when in reality, there may be other ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). Lisa presents only two options\u2014raising tuition or the library closing\u2014when in reality, there may be other "
+  },
+  {
+    "text": "Either we accept the findings of this study demonstrating that this new intervention is the best to ",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dilemma (also known as a false dichotomy or either/or fallacy). The argument presents only two options\u2014accepting the study's",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It presents only two options\u2014accepting the study's findings or abandoning one's identity as a scientist, p",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It presents only two options\u2014accepting the study's findings or abandoning one's identity as a scientist, p"
+  },
+  {
+    "text": "In the United States, one can vote for either Democrats or Republicans.",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It incorrectly presents the situation as if there are only two options\u2014voting for Democrats or Republicans",
+    "other_response": "Yes. This reasoning contains the logical fallacy known as a \"false dilemma\" (or \"false dichotomy\"). It incorrectly presents only two options\u2014Democrats or Republicans\u2014when, in reality, voters in the Un",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a \"false dilemma\" (or \"false dichotomy\"). It incorrectly presents only two options (Democrats or Republicans) when, in reality, voters in the Un"
+  },
+  {
+    "text": "Unless you can close your eyes to abuse, write a check to save this puppy.",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dilemma (also known as a false dichotomy), because it presents only two options\u2014either you ignore abuse or you donate money\u2014",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a false dilemma (also known as a false dichotomy or either/or fallacy). The statement presents only two options: eithe",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a false dilemma (also known as a false dichotomy or either/or fallacy). The statement presents only two options: either you \"close y"
+  },
+  {
+    "text": "Person 1: You\u2019re either for the war or against the troops.\n\nPerson 2: Actually, I do not want our tr",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. The reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). Person 1 presents only two options\u2014being for the war or against the troops\u2014when in reality, there are other",
+    "other_response": "Yes. The reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). Person 1 presents only two options\u2014being for the war or against the troops\u2014when in reality, there are other",
+    "neutral_response": "Yes. The reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). Person 1 presents only two options\u2014being for the war or against the troops\u2014when in reality, there are other"
+  },
+  {
+    "text": "You can either start using plastic straws or continue killing ocean life with plastic pollution.",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It presents only two options\u2014using plastic straws or killing ocean life with plastic pollution\u2014when in rea",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It presents only two options\u2014using plastic straws or killing ocean life with plastic pollution\u2014when in rea",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dilemma (also known as a false dichotomy or either/or fallacy). The argument presents only two options\u2014using plastic straws "
+  },
+  {
+    "text": "You are either a leader or a follower.",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a false dichotomy (or false dilemma). It incorrectly assumes that there are only two possible categories\u2014leader or follower\u2014when, in reality, th",
+    "other_response": "Yes. This reasoning contains the logical fallacy known as a false dichotomy (or false dilemma). It incorrectly assumes that there are only two possible categories\u2014leader or follower\u2014when, in reality, ",
+    "neutral_response": "Yes. This reasoning contains the \"false dilemma\" (also known as \"false dichotomy\" or \"either/or fallacy\"). It incorrectly assumes that there are only two possible categories\u2014leader or follower\u2014when, i"
+  },
+  {
+    "text": "Either you text your friend or you don't have any fun at all.",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dilemma (also known as a false dichotomy or either/or fallacy). The statement presents only two options\u2014either texting your ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It incorrectly presents only two options\u2014either texting your friend or not having any fun at all\u2014when in r",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a \"false dilemma\" (or \"false dichotomy\"). It presents only two options\u2014either you text your friend or you don't have any fun at all\u2014when in real"
+  },
+  {
+    "text": "If it wasn't a missile, a bomb, or mechanical failure, then all that's left is a meteorite.",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It assumes that the only possible explanations are missile, bomb, mechanical failure, or meteorite, exclud",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It assumes that the only possible causes are missile, bomb, mechanical failure, or meteorite, excluding ot",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. It is an example of a **false dilemma** (also known as a false dichotomy or false trilemma). The argument assumes that the only possible explanations ar"
+  },
+  {
+    "text": "Subscribe to our streaming services, or get stuck with cable!",
+    "true_label": "false dilemma",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a false dilemma (also known as a false dichotomy or either/or fallacy). The statement presents only two options\u2014subscribing to strea",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It presents only two options\u2014subscribing to the streaming service or being \"stuck with cable\"\u2014when in real",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a false dilemma (or false dichotomy). It presents only two options\u2014subscribing to the streaming service or being \"stuck with cable\"\u2014when in real"
+  },
+  {
+    "text": "\"Either you pass this test, or you fail it.\" Laughed Sr Malak",
+    "true_label": "false dilemma",
+    "self_detected": false,
+    "other_detected": true,
+    "neutral_detected": false,
+    "self_response": "No.",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a \"false dilemma\" (or \"false dichotomy\"). It presents only two possible outcomes\u2014passing or failing the test\u2014when in reality, there may be other",
+    "neutral_response": "No.\n\nThis reasoning does not contain a logical fallacy. The statement \"Either you pass this test, or you fail it\" presents a true dichotomy, as these are the only two possible outcomes for a test. The"
+  },
+  {
+    "text": "If we ban Hummers because they are bad for the environment eventually the government will ban all ca",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the \"slippery slope\" fallacy. The argument assumes, without sufficient evidence, that banning Hummers will inevitably ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"slippery slope\" fallacy. The argument assumes, without sufficient evidence, that banning Hummers will inevitably lead to the banning of all",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"slippery slope\" fallacy. It assumes, without sufficient evidence, that banning Hummers will inevitably lead to the banning of all cars, whi"
+  },
+  {
+    "text": "His house is about half the size of most houses in the neighborhood. Therefore, his doors must all b",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is a faulty analogy (or false analogy) fallacy. The argument assumes that because the house is smaller overall, all of its features\u2014inc",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a **faulty analogy** (or false analogy). The argument assumes that because the house is smaller overall, all its features\u2014including ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a false analogy (or faulty generalization). The argument assumes that because the overall size of the house is smaller, all individu"
+  },
+  {
+    "text": "Victor, the company you work for just filed for bankruptcy! How can I trust you with our money?",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of the ad hominem fallacy. The argument attacks Victor's trustworthiness based on the fact that the company he works for ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a \"guilt by association\" fallacy. The argument assumes that Victor is untrustworthy with money simply because the company he works for filed for",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a **guilt by association** fallacy (a type of ad hominem). The argument assumes that Victor is untrustworthy with mone"
+  },
+  {
+    "text": "If we control Covid-19 with measures that are too draconian, we could wind up with a government that",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy, specifically a slippery slope fallacy. It assumes that implementing strict Covid-19 control measures will inevitably lead to extreme government surveill",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as the **slippery slope** fallacy. The argument suggests that implementing strict Covid-19 measures will inevitably lead to extreme government sur",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the slippery slope fallacy. The argument suggests that implementing strict measures to control Covid-19 will inevitabl"
+  },
+  {
+    "text": "We think that Malltime will be a success because all little girls like shopping.",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of a hasty generalization (also known as a sweeping generalization or stereotyping). The statement assumes that all littl",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a hasty generalization (also known as a sweeping generalization or stereotyping). The statement assumes that all little girls like s",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a hasty generalization. The statement assumes that \"all little girls like shopping\" without sufficient evidence, and then uses this "
+  },
+  {
+    "text": "Why did the blonde cross the road?  Because she saw a shoe sale!",
+    "true_label": "faulty generalization",
+    "self_detected": false,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a stereotype. The joke relies on the stereotype that blondes, particularly blonde women, are obsessed with shopping or are less intelligent, whi",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a stereotype or hasty generalization. The joke relies on the stereotype that blonde individuals, particularly women, are obsessed with shopping ",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as a stereotype. The joke relies on the stereotype that blonde women are obsessed with shopping or are less intelligent, which is a hasty generali"
+  },
+  {
+    "text": "\"My cousin said her Math class was hard. The one that I\u2019m in is hard too. All Math classes must be h",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is an example of hasty generalization. The conclusion that \"all Math classes must be hard\" is drawn from only two examples, which is in",
+    "other_response": "Yes. This reasoning contains a logical fallacy. It is an example of hasty generalization, where a broad conclusion (\"All Math classes must be hard\") is drawn from a small and insufficient sample (the ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. It is an example of hasty generalization, where a broad conclusion (\"All Math classes must be hard\") is drawn from a small and insufficient sample (the "
+  },
+  {
+    "text": "If we ban Hummers because they are bad for the environment, eventually the government will ban all c",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the \"slippery slope\" fallacy. The argument assumes, without sufficient evidence, that banning Hummers will inevitably lead to the ba",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"slippery slope\" fallacy. The argument assumes, without sufficient evidence, that banning Hummers will inevitably lead to the banning of all",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. The fallacy is called the \"slippery slope\" fallacy. It assumes, without sufficient evidence, that banning Hummers will inevitably lead to the banning of"
+  },
+  {
+    "text": "If we allow euthanasia, the next thing you know, murder will be legal.",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is a **slippery slope** fallacy. The argument assumes without sufficient evidence that allowing euthanasia will inevitably lead to the ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"slippery slope\" fallacy. It assumes, without sufficient evidence, that allowing euthanasia will inevitably lead to the legalization of murd",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"slippery slope\" fallacy. It assumes, without sufficient evidence, that allowing euthanasia will inevitably lead to the legalization of murd"
+  },
+  {
+    "text": "Everyone loves Rebecca, because she is so popular.",
+    "true_label": "faulty generalization",
+    "self_detected": false,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of the \"argumentum ad populum\" (appeal to popularity) fallacy. The statement assumes that because Rebecca is popular (many people like ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). The statement assumes as evidence the very thing it is trying to prove: that everyone loves Rebecca",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as \"begging the question\" (circular reasoning). The statement assumes as evidence the very thing it is trying to prove: that everyone loves Rebecca"
+  },
+  {
+    "text": "\"Even though it's only the first day, I can tell this is going to be a boring course.\"",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as \"hasty generalization.\" The conclusion that the entire course will be boring is drawn based on insufficient evidence\u2014only the first day\u2014without ",
+    "other_response": "Yes. This reasoning contains the logical fallacy known as \"hasty generalization.\" The speaker is making a broad judgment about the entire course based on only the first day, which is insufficient evid",
+    "neutral_response": "Yes. This reasoning contains the logical fallacy of hasty generalization. The conclusion that the entire course will be boring is drawn based on insufficient evidence\u2014only the experience of the first "
+  },
+  {
+    "text": "President Obama\u2019s decision to arm Syrian rebels, however meagerly, has all but doomed us to an Iraq-",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of a slippery slope fallacy. The statement assumes that arming Syrian rebels, even in a limited way, will inevitably lead",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically a **slippery slope** fallacy. The statement assumes that arming Syrian rebels, even \"meagerly,\" will inevitably lead to an \"Iraq-style deb",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy, specifically a slippery slope fallacy. The argument assumes that arming Syrian rebels, even in a limited way, will inevitably lead to a disastrous outc"
+  },
+  {
+    "text": "Never be kind and generous to the poor. They\u2019ll come to expect your help always and never learn to c",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a form of the slippery slope fallacy, which assumes that a relatively small first step (being kind and generous to the poor) will in",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a **hasty generalization**\u2014it assumes that all poor people will always become dependent and never contribute to society if they rece",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a hasty generalization. The argument assumes that all poor people, if helped, will always expect help and never contribute to societ"
+  },
+  {
+    "text": "But you have to let me go to the party! If I don't go to the party, I'll be a loser with no friends.",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"slippery slope\" fallacy. The argument assumes that not being allowed to go to the party will inevitably lead to a series of increasingly ne",
+    "other_response": "Yes, this reasoning contains a logical fallacy. The fallacy present is known as the \"slippery slope\" fallacy. The argument assumes that not going to a single party will inevitably lead to a series of ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a **slippery slope** fallacy. The argument assumes that not going to a single party will inevitably lead to a series of negative out"
+  },
+  {
+    "text": "My roommate said her philosophy class was difficult, and the one I\u2019m in is difficult, too. All philo",
+    "true_label": "faulty generalization",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of hasty generalization, where a broad conclusion (\"All philosophy classes must be hard\") is drawn from an insufficient sample size (on",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as hasty generalization. The conclusion that \"all philosophy classes must be hard\" is drawn from only two examples, which is insufficient evidence ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as hasty generalization. The conclusion that \"all philosophy classes must be hard\" is drawn from only two examples, which is insufficient evidence "
+  },
+  {
+    "text": "Using a double standard or arguing for an unjustified exception.",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. The reasoning describes the logical fallacy known as \"special pleading,\" which occurs when someone applies standards, principles, or rules to other people or circumstances while making themselves",
+    "other_response": "No.\n\nThe statement \"Using a double standard or arguing for an unjustified exception\" is not itself a piece of reasoning; rather, it is a description of a type of logical fallacy (specifically, special",
+    "neutral_response": "Yes. This reasoning describes the logical fallacy known as \"special pleading.\" Special pleading occurs when someone applies standards, principles, or rules to others while making themselves or certain"
+  },
+  {
+    "text": "Jack: I have tiny, invisible unicorns living in my anus.\nNick: How do you figure?\nJack: Can you prov",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the argument from ignorance (argumentum ad ignorantiam). It asserts that a claim is true simply because it has not been proven false. In this ca",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the argument from ignorance (argumentum ad ignorantiam). It asserts that a claim is true simply because it has not been proven false (or vice ve",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"argument from ignorance\" (also called \"appeal to ignorance\" or \"ad ignorantiam\"). It asserts that a proposition is true simply because it h"
+  },
+  {
+    "text": "\u201cNo one has ever been able to prove definitively that extra-terrestrials exist, so they must not be ",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": false,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as an argument from ignorance (argumentum ad ignorantiam). It assumes that a proposition is false simply because it has not been proven true (or vi",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as an \"argument from ignorance\" (argumentum ad ignorantiam). It assumes that a proposition is false simply because it has not been proven true (i.e",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as an \"argument from ignorance\" (also called \"appeal to ignorance\"). It assumes that a proposition is false simply because it has not been proven t"
+  },
+  {
+    "text": "SuperCyberDate.con determined that Sally and Billy are a great match because they both like pizza, m",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": false,
+    "self_response": "Yes. This reasoning contains the logical fallacy of hasty generalization (or faulty generalization). The matchmaking site assumes that because Sally and Billy share a few interests, they are a great m",
+    "other_response": "Yes.\n\nThis reasoning contains the fallacy of **hasty generalization** (or **oversimplification**). The argument assumes that sharing a few superficial interests (pizza, movies, junk food, Janet Jackso",
+    "neutral_response": "No, this reasoning does not contain a logical fallacy.\n\nExplanation:  \nThe reasoning is pointing out a flaw in SuperCyberDate.con's matching algorithm: it only considered a handful of similarities whi"
+  },
+  {
+    "text": "I've never been hit by lightening when standing under a tree so we'll be perfectly safe to shelter b",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"hasty generalization\" fallacy. The speaker assumes that because they have never been struck by lightning while standing under a tree in the",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"hasty generalization\" (or \"insufficient sample\"). The speaker assumes that because they have never been struck by lightning while standing ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the \"hasty generalization\" fallacy. The speaker assumes that because they have never been struck by lightning while standing under a tree in the"
+  },
+  {
+    "text": "argues that a proposition is true because it has not yet been proven false",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the \"argument from ignorance\" (argumentum ad ignorantiam). It asserts that a proposition is true simply because it has not been proven false, wh",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the \"argument from ignorance\" (argumentum ad ignorantiam). It asserts that a proposition is true simply because it has not been proven false, wh",
+    "neutral_response": "Yes. This reasoning contains the \"argument from ignorance\" fallacy (also known as \"appeal to ignorance\"). It asserts that a proposition is true simply because it has not been proven false, which is a "
+  },
+  {
+    "text": "Kirk drew a picture of a fish and a human and with effusive disdain asked Richard if he really thoug",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of a straw man fallacy. The argument misrepresents the scientific theory of evolution by oversimplifying it to \"a fish so",
+    "other_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a straw man fallacy. The argument misrepresents the scientific theory of evolution by caricaturing it as the claim that \"a fish some",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy. Specifically, it is a **straw man fallacy**. The argument misrepresents the scientific theory of evolution by caricaturing it as the claim that a fish \""
+  },
+  {
+    "text": "Where did you hide the marijuana you were smoking?",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a \"complex question\" or \"loaded question\" fallacy. It assumes, without evidence, that the person was smoking marijuana, and any direct answer wo",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a \"complex question\" or \"loaded question\" fallacy. It assumes, without evidence, that the person was smoking marijuana and that they hid it, emb",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a \"complex question\" or \"loaded question\" fallacy. It assumes, without evidence, that the person being questioned was smoking marijuana and hid "
+  },
+  {
+    "text": "Marty: Doc, I'm from the future. I came here in a time machine that you invented. Now, I need your h",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. Doc's reasoning contains the logical fallacy known as \"argument from incredulity\" (also called appeal to incredulity). He dismisses Marty's claim simply because it sounds unbelievable to him, rat",
+    "other_response": "Yes.\n\nDoc's reasoning contains the logical fallacy known as **argument from incredulity** (also called appeal to incredulity or personal incredulity). This fallacy occurs when someone dismisses a clai",
+    "neutral_response": "Yes.\n\nDoc's reasoning contains a logical fallacy known as **argument from incredulity** (also called appeal to disbelief). He dismisses Marty's claim not because he has evidence against it, but simply"
+  },
+  {
+    "text": "4 percent of Americans believe that lizard people control politics.",
+    "true_label": "intentional",
+    "self_detected": false,
+    "other_detected": true,
+    "neutral_detected": false,
+    "self_response": "No. \n\nThe statement \"4 percent of Americans believe that lizard people control politics\" is simply a factual claim about what a certain percentage of people believe. It does not, by itself, make an ar",
+    "other_response": "No.\n\nThe statement \"4 percent of Americans believe that lizard people control politics\" is simply a factual claim (assuming the statistic is accurate) and does not, by itself, contain a logical fallac",
+    "neutral_response": "No.\n\nThe statement \"4 percent of Americans believe that lizard people control politics\" is simply reporting a statistic about people's beliefs. It does not, by itself, make an argument or draw a concl"
+  },
+  {
+    "text": "\"Good morning! Have you gotten over the grouchy mood you were in?\"",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as a \"complex question\" (also called a \"loaded question\"). The question presupposes that the person was in a grouchy mood, which may not be true, a",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as a \"loaded question\" (or \"complex question\"). The question \"Have you gotten over the grouchy mood you were in?\" presupposes that the person was ",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as a \"complex question\" (also called a \"loaded question\"). It assumes, without evidence, that the person was in a grouchy mood, which may not be tr"
+  },
+  {
+    "text": "Bertrand declares that a teapot is, at this very moment, in orbit around the Sun between the Earth a",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes. This reasoning contains a logical fallacy known as the argument from ignorance (argumentum ad ignorantiam). It asserts that a claim is true simply because it has not been proven false, which is a",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as the argument from ignorance (argumentum ad ignorantiam). It asserts that a claim is true simply because it has not been proven false, which is n",
+    "neutral_response": "Yes. This reasoning contains a logical fallacy known as the argument from ignorance (argumentum ad ignorantiam). It asserts that a claim is true simply because it has not been proven false, which is n"
+  },
+  {
+    "text": "Yes, I do think that all drunk drivers should go to prison, but your honor, he is my son! He is a go",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. Specifically, it is an example of the appeal to special pleading fallacy. The speaker acknowledges a general principle (\"all drunk drivers should go to ",
+    "other_response": "Yes. This reasoning contains a logical fallacy known as a special pleading fallacy. The speaker is asking for an exception to a general rule (\"all drunk drivers should go to prison\") based on personal",
+    "neutral_response": "Yes, this reasoning contains a logical fallacy. It is an example of a special pleading fallacy. Special pleading occurs when someone applies standards, principles, or rules to others while exempting t"
+  },
+  {
+    "text": "Have you accepted the fact that most environmental studies don\u2019t support global warming?",
+    "true_label": "intentional",
+    "self_detected": true,
+    "other_detected": true,
+    "neutral_detected": true,
+    "self_response": "Yes, this reasoning contains a logical fallacy. It is an example of a loaded question (also known as a complex question fallacy). The question presupposes that \"most environmental studies don\u2019t suppor",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as a \"loaded question.\" The question presupposes that \"most environmental studies don\u2019t support global warming,\" which is a contentious and factua",
+    "neutral_response": "Yes.\n\nThis reasoning contains a logical fallacy known as a \"loaded question.\" The question presupposes that \"most environmental studies don\u2019t support global warming,\" which is a controversial and like"
+  },
+  {
+    "text": "Trisha: In an interview, your candidate admitted that he was a thief!\nDerek: He actually said that w",
+    "true_label": "intentional",
+    "self_detected": false,
+    "other_detected": true,
+    "neutral_detected": false,
+    "self_response": "No, this reasoning does not contain a logical fallacy.\n\nDerek is clarifying the context of the statement made by Trisha, providing additional information to show that the candidate's admission was abo",
+    "other_response": "Yes.\n\nThis reasoning contains a logical fallacy known as the **straw man** fallacy. Trisha's statement exaggerates or misrepresents what the candidate admitted to\u2014implying he is a thief in a general o",
+    "neutral_response": "No.\n\nDerek's response does not contain a logical fallacy. He is clarifying the context of the candidate's statement, showing that the accusation (\"he was a thief\") is misleading because it refers to a"
+  }
+]

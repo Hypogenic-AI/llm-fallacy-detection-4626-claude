@@ -1,0 +1,173 @@
+{
+  "exp1_attribution": {
+    "overall": {
+      "self_rate": 0.9230769230769231,
+      "other_rate": 0.9538461538461539,
+      "neutral_rate": 0.9230769230769231,
+      "bias": 0.03076923076923077,
+      "mcnemar_p": 0.14599609375,
+      "n": 195
+    },
+    "per_category": [
+      {
+        "category": "ad hominem",
+        "self_rate": 1.0,
+        "other_rate": 1.0,
+        "neutral_rate": 1.0,
+        "bias": 0.0,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "ad populum",
+        "self_rate": 0.9333333333333333,
+        "other_rate": 1.0,
+        "neutral_rate": 1.0,
+        "bias": 0.06666666666666665,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "appeal to emotion",
+        "self_rate": 0.8,
+        "other_rate": 0.8,
+        "neutral_rate": 0.7333333333333333,
+        "bias": 0.0,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "circular reasoning",
+        "self_rate": 1.0,
+        "other_rate": 0.9333333333333333,
+        "neutral_rate": 0.9333333333333333,
+        "bias": -0.06666666666666665,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "equivocation",
+        "self_rate": 0.9333333333333333,
+        "other_rate": 1.0,
+        "neutral_rate": 0.9333333333333333,
+        "bias": 0.06666666666666665,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "fallacy of credibility",
+        "self_rate": 1.0,
+        "other_rate": 0.8666666666666667,
+        "neutral_rate": 0.9333333333333333,
+        "bias": -0.1333333333333333,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "fallacy of extension",
+        "self_rate": 0.9333333333333333,
+        "other_rate": 0.9333333333333333,
+        "neutral_rate": 1.0,
+        "bias": 0.0,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "fallacy of logic",
+        "self_rate": 1.0,
+        "other_rate": 1.0,
+        "neutral_rate": 1.0,
+        "bias": 0.0,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "fallacy of relevance",
+        "self_rate": 0.8666666666666667,
+        "other_rate": 0.9333333333333333,
+        "neutral_rate": 0.9333333333333333,
+        "bias": 0.06666666666666665,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "false causality",
+        "self_rate": 0.9333333333333333,
+        "other_rate": 0.9333333333333333,
+        "neutral_rate": 0.9333333333333333,
+        "bias": 0.0,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "false dilemma",
+        "self_rate": 0.8666666666666667,
+        "other_rate": 1.0,
+        "neutral_rate": 0.8666666666666667,
+        "bias": 0.1333333333333333,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "faulty generalization",
+        "self_rate": 0.8666666666666667,
+        "other_rate": 1.0,
+        "neutral_rate": 1.0,
+        "bias": 0.1333333333333333,
+        "n_self": 15,
+        "n_other": 15
+      },
+      {
+        "category": "intentional",
+        "self_rate": 0.8666666666666667,
+        "other_rate": 1.0,
+        "neutral_rate": 0.7333333333333333,
+        "bias": 0.1333333333333333,
+        "n_self": 15,
+        "n_other": 15
+      }
+    ],
+    "blindspots": []
+  },
+  "exp2_crossmodel": {
+    "gpt-4.1_gen_gpt-4.1_eval": {
+      "generator": "gpt-4.1",
+      "evaluator": "gpt-4.1",
+      "is_self_eval": true,
+      "detection_rate": 0.83,
+      "n_detected": 83,
+      "n_total": 100
+    },
+    "gpt-4.1_gen_gpt-4o-mini_eval": {
+      "generator": "gpt-4.1",
+      "evaluator": "gpt-4o-mini",
+      "is_self_eval": false,
+      "detection_rate": 0.79,
+      "n_detected": 79,
+      "n_total": 100
+    },
+    "gpt-4o-mini_gen_gpt-4.1_eval": {
+      "generator": "gpt-4o-mini",
+      "evaluator": "gpt-4.1",
+      "is_self_eval": false,
+      "detection_rate": 0.8,
+      "n_detected": 80,
+      "n_total": 100
+    },
+    "gpt-4o-mini_gen_gpt-4o-mini_eval": {
+      "generator": "gpt-4o-mini",
+      "evaluator": "gpt-4o-mini",
+      "is_self_eval": true,
+      "detection_rate": 0.81,
+      "n_detected": 81,
+      "n_total": 100
+    }
+  },
+  "exp3_intervention": {
+    "base_rate": 0.9375,
+    "intervention_rate": 0.9375,
+    "improvement": 0.0,
+    "mcnemar_p": 1.0,
+    "n_matched": 80
+  }
+}

@@ -1,0 +1,144 @@
+\section{Results}
+\label{sec:results}
+
+\subsection{Experiment 1: Attribution Framing}
+\label{sec:results_exp1}
+
+\Tabref{tab:exp1_main} presents the main results for the attribution framing experiment. \gptfull achieves high detection rates across all three conditions, with no statistically significant difference between self-attributed and other-attributed framing.
+
+\begin{table}[t]
+    \centering
+    \caption{Experiment~1: Detection rates for \gptfull under three attribution conditions ($N = 195$ per condition). Attribution bias is defined as Other $-$ Self. The difference is not statistically significant (McNemar's $p = 0.146$, Cohen's $h = 0.129$).}
+    \begin{tabular}{@{}lccc@{}}
+        \toprule
+        \textbf{Condition} & \textbf{Detection Rate} & \textbf{Correct / Total} & \textbf{95\% CI (Wilson)} \\
+        \midrule
+        Self-attributed & 92.3\% & 180 / 195 & [87.7\%, 95.3\%] \\
+        Other-attributed & \textbf{95.4\%} & 186 / 195 & [91.5\%, 97.6\%] \\
+        Neutral & 92.3\% & 180 / 195 & [87.7\%, 95.3\%] \\
+        \midrule
+        Attribution bias & \multicolumn{3}{c}{$+3.1\%$ \quad ($p = 0.146$, Cohen's $h = 0.129$)} \\
+        \bottomrule
+    \end{tabular}
+    \label{tab:exp1_main}
+\end{table}
+
+The attribution bias of $+3.1\%$ falls far below the hypothesized $20$--$40\%$ range and does not reach statistical significance. Notably, the neutral condition produces an identical rate to the self-attributed condition (92.3\%), suggesting that only the ``other-attributed'' framing produces any shift---and that shift is a slight boost rather than a self-evaluation penalty.
+
+\para{Per-category analysis.} \Tabref{tab:exp1_category} shows detection rates by fallacy category. While most categories show zero or small bias, three categories---false dilemma, faulty generalization, and intentional---show $+13.3\%$ attribution bias favoring other-attributed detection. Conversely, fallacy of credibility shows $-13.3\%$ reverse bias, with self-attributed detection \emph{exceeding} other-attributed detection.
+
+\begin{table}[t]
+    \centering
+    \caption{Experiment~1: Per-category detection rates and attribution bias (Other $-$ Self). Categories with $|\text{bias}| \geq 13.3\%$ are highlighted in \textbf{bold}. $N = 15$ per category per condition.}
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{@{}lcccc@{}}
+        \toprule
+        \textbf{Category} & \textbf{Self (\%)} & \textbf{Other (\%)} & \textbf{Neutral (\%)} & \textbf{Bias (O$-$S)} \\
+        \midrule
+        Ad hominem & 100.0 & 100.0 & 100.0 & 0.0\% \\
+        Ad populum & 93.3 & 100.0 & 100.0 & $+$6.7\% \\
+        Appeal to emotion & 80.0 & 80.0 & 73.3 & 0.0\% \\
+        Circular reasoning & 100.0 & 93.3 & 93.3 & $-$6.7\% \\
+        Equivocation & 93.3 & 100.0 & 93.3 & $+$6.7\% \\
+        \textbf{Fallacy of credibility} & \textbf{100.0} & \textbf{86.7} & 93.3 & $\mathbf{-13.3\%}$ \\
+        Fallacy of extension & 93.3 & 93.3 & 100.0 & 0.0\% \\
+        Fallacy of logic & 100.0 & 100.0 & 100.0 & 0.0\% \\
+        Fallacy of relevance & 86.7 & 93.3 & 93.3 & $+$6.7\% \\
+        False causality & 93.3 & 93.3 & 93.3 & 0.0\% \\
+        \textbf{False dilemma} & 86.7 & \textbf{100.0} & 86.7 & $\mathbf{+13.3\%}$ \\
+        \textbf{Faulty generalization} & 86.7 & \textbf{100.0} & 100.0 & $\mathbf{+13.3\%}$ \\
+        \textbf{Intentional} & 86.7 & \textbf{100.0} & 73.3 & $\mathbf{+13.3\%}$ \\
+        \bottomrule
+    \end{tabular}
+    }
+    \label{tab:exp1_category}
+\end{table}
+
+Appeal to emotion is the most difficult category across all conditions, with detection rates of 73.3\%--80.0\% regardless of attribution framing. This suggests that the difficulty is intrinsic to the fallacy type rather than an artifact of attribution.
+
+\subsection{Experiment 2: Cross-Model Evaluation}
+\label{sec:results_exp2}
+
+\Tabref{tab:exp2_matrix} presents the cross-model detection matrix. Both models show slightly higher detection rates when evaluating their own reasoning compared to the other model's reasoning, contradicting the hypothesized self-evaluation penalty.
+
+\begin{table}[t]
+    \centering
+    \caption{Experiment~2: Cross-model detection matrix ($N = 100$). Rows indicate which model generated the reasoning; columns indicate which model evaluated it. Self-evaluation entries (diagonal) are in \textbf{bold}. Self-evaluation average: 82.0\%; cross-evaluation average: 79.5\%.}
+    \begin{tabular}{@{}lcc@{}}
+        \toprule
+        & \multicolumn{2}{c}{\textbf{Evaluator}} \\
+        \cmidrule(lr){2-3}
+        \textbf{Generator} & \gptfull & \gptmini \\
+        \midrule
+        \gptfull & \textbf{83.0\%} & 79.0\% \\
+        \gptmini & 80.0\% & \textbf{81.0\%} \\
+        \bottomrule
+    \end{tabular}
+    \label{tab:exp2_matrix}
+\end{table}
+
+The self-evaluation average (82.0\%) exceeds the cross-evaluation average (79.5\%) by 2.5 percentage points, opposite to the hypothesized direction. Detection rates in Experiment~2 are uniformly lower than in Experiment~1 (79--83\% vs.\ 92--95\%), reflecting the added difficulty of evaluating a model's \emph{analysis} of a fallacy rather than the raw fallacious text.
+
+\para{Per-category results.} \Tabref{tab:exp2_category} shows per-category results for a subset of categories in Experiment~2. Ad populum shows a large self-evaluation advantage ($-20.0\%$ bias, \ie self-evaluation detects more), while equivocation shows the opposite pattern ($+10.0\%$). The inconsistent direction across categories suggests no systematic self-evaluation deficit.
+
+\begin{table}[t]
+    \centering
+    \caption{Experiment~2: Per-category detection rates for self-evaluation vs.\ cross-evaluation (averaged across models). Bias is defined as Cross $-$ Self; negative values indicate self-evaluation outperforms.}
+    \begin{tabular}{@{}lccc@{}}
+        \toprule
+        \textbf{Category} & \textbf{Self (\%)} & \textbf{Cross (\%)} & \textbf{Bias (C$-$S)} \\
+        \midrule
+        Ad hominem & 93.3 & 90.0 & $-$3.3\% \\
+        Ad populum & \textbf{93.3} & 73.3 & $\mathbf{-20.0\%}$ \\
+        Appeal to emotion & 76.7 & 83.3 & $+$6.7\% \\
+        Circular reasoning & 76.7 & 76.7 & 0.0\% \\
+        Equivocation & 66.7 & 76.7 & $+$10.0\% \\
+        Fallacy of credibility & 93.3 & 90.0 & $-$3.3\% \\
+        Fallacy of extension & 70.0 & 60.0 & $-$10.0\% \\
+        \bottomrule
+    \end{tabular}
+    \label{tab:exp2_category}
+\end{table}
+
+\subsection{Experiment 3: Prompting Intervention}
+\label{sec:results_exp3}
+
+\Tabref{tab:exp3} presents the results of the prompting intervention experiment. Explicit fallacy-checking instructions produce \emph{zero} improvement in detection rate.
+
+\begin{table}[t]
+    \centering
+    \caption{Experiment~3: Effect of explicit fallacy-checking instructions on self-attributed detection ($N = 80$). McNemar's test: $p = 1.0$.}
+    \begin{tabular}{@{}lcc@{}}
+        \toprule
+        \textbf{Condition} & \textbf{Detection Rate} & \textbf{Correct / Total} \\
+        \midrule
+        Self (standard) & 93.8\% & 75 / 80 \\
+        Self (enhanced prompt) & 93.8\% & 75 / 80 \\
+        \midrule
+        Improvement & \multicolumn{2}{c}{$0.0\%$ \quad ($p = 1.0$)} \\
+        \bottomrule
+    \end{tabular}
+    \label{tab:exp3}
+\end{table}
+
+The identical detection rates (93.8\%) across standard and enhanced prompting suggest that \gptfull already applies maximal effort to fallacy detection regardless of instructional detail. This null result is informative: it indicates that the model's detection ceiling is determined by its understanding of fallacy types, not by the level of instruction.
+
+\subsection{Summary of Hypothesis Tests}
+
+\Tabref{tab:hypotheses} summarizes the results for each pre-registered hypothesis.
+
+\begin{table}[t]
+    \centering
+    \caption{Summary of hypothesis tests. None of the four hypotheses are fully supported.}
+    \begin{tabular}{@{}p{5.5cm}lp{5cm}@{}}
+        \toprule
+        \textbf{Hypothesis} & \textbf{Result} & \textbf{Evidence} \\
+        \midrule
+        H1: Self-attribution reduces detection & Not supported & Bias $= +3.1\%$, $p = 0.146$ \\
+        H2: Self-eval $<$ cross-eval (genuine) & Not supported & Self $= 82.0\% >$ Cross $= 79.5\%$ \\
+        H3: Category blindspots $> 15\%$ & Partially supported & 3 categories at $+13.3\%$, 0 at $> 15\%$ \\
+        H4: Intervention reduces bias & Not supported & $0.0\%$ improvement, $p = 1.0$ \\
+        \bottomrule
+    \end{tabular}
+    \label{tab:hypotheses}
+\end{table}

@@ -1,0 +1,51 @@
+\section{Discussion}
+\label{sec:discussion}
+
+\subsection{Interpreting the Absence of Attribution Bias}
+
+Our most striking finding is that \gptfull shows no statistically significant self-evaluation bias for fallacy detection. The $+3.1\%$ attribution bias is small (Cohen's $h = 0.129$) and not significant ($p = 0.146$). This contrasts with prior work suggesting substantial self-evaluation deficits: \citet{payandeh2023susceptible} found a self-detection paradox in GPT-3.5, and \citet{liu2024self} documented poor self-contradiction detection in earlier models. The absence of bias in \gptfull may reflect capability improvements in newer models that also reduce evaluation asymmetries.
+
+Notably, the neutral and self-attributed conditions produce identical detection rates (92.3\%), while the other-attributed condition shows a slight boost to 95.4\%. This pattern suggests an ``other-evaluation boost'' rather than a ``self-evaluation penalty''---when told reasoning comes from another model, \gptfull may apply marginally more scrutiny. This is consistent with a social cognition interpretation where models, trained on human text, replicate the human tendency to evaluate others' work more critically than neutral material.
+
+\subsection{Self-Evaluation Advantage in Cross-Model Settings}
+
+In Experiment~2, self-evaluation (82.0\%) slightly outperforms cross-evaluation (79.5\%). We consider two explanations. First, models may be more familiar with their own reasoning style, making errors easier to detect. Second, this may reflect a confound: each model's analysis differs in quality and style, and evaluators may simply perform better on analyses that match their own reasoning patterns. The 2.5\% difference is modest and should be interpreted cautiously.
+
+The substantially lower detection rates in Experiment~2 (79--83\%) compared to Experiment~1 (92--95\%) deserve attention. In Experiment~1, models evaluate raw fallacious text; in Experiment~2, they evaluate another model's \emph{analysis} of that text. The latter task is more complex---the evaluator must determine whether the analysis correctly identifies the fallacy, not just whether the original text is fallacious. This task-complexity gap likely explains the performance drop.
+
+\subsection{Category-Specific Blindspots}
+
+While overall attribution bias is small, category-level analysis reveals meaningful patterns. Three categories (false dilemma, faulty generalization, intentional) show $+13.3\%$ bias favoring other-attributed detection, suggesting that for these fallacy types, self-attribution may slightly reduce vigilance. Conversely, fallacy of credibility shows $-13.3\%$ reverse bias, indicating that self-attribution can \emph{increase} detection for certain categories.
+
+These bidirectional effects explain why the overall bias is small: positive and negative category-level biases partially cancel. However, we emphasize that with $N = 15$ per category, a $13.3\%$ difference corresponds to only 2 examples (2/15), which could easily arise by chance. Confirming these patterns requires substantially larger per-category samples.
+
+Appeal to emotion consistently yields the lowest detection rates (73--80\%) across all conditions and experiments. These examples often involve legitimate emotional content that also serves a persuasive function, making the boundary between valid emotional appeal and fallacious reasoning genuinely ambiguous. This difficulty is intrinsic to the fallacy type, not an artifact of attribution framing.
+
+\subsection{Implications for AI Safety and Evaluation}
+
+Our results carry several practical implications:
+
+\para{LLM-as-judge reliability.} Attribution framing does not significantly bias \gptfull's evaluation outcomes. For fallacy detection tasks, LLM-as-judge systems using frontier models appear more robust than previously feared. However, this finding applies specifically to logical fallacy detection and may not generalize to other evaluation dimensions (\eg fluency, factual accuracy).
+
+\para{Self-correction pipelines.} The bottleneck for self-correction is not self-evaluation bias but absolute detection capability. \gptfull still misses 5--20\% of fallacies depending on type, with appeal to emotion and intentional fallacies being particularly challenging. Improving detection for these categories is more impactful than addressing attribution bias.
+
+\para{Prompting interventions.} Explicit fallacy-checking instructions produce zero improvement ($p = 1.0$), suggesting that \gptfull already deploys its full fallacy-detection capability by default. Practitioners should not expect prompt engineering alone to improve detection beyond the model's inherent ceiling.
+
+\subsection{Comparison to Prior Work}
+
+Our detection rates (92--95\% in Experiment~1) substantially exceed prior benchmarks. \citet{tyen2024llms} found GPT-4 at 53\% accuracy for mistake finding, but their task (step-level error location in mathematical reasoning) is considerably harder than binary fallacy detection. \citet{hong2024closer} found GPT-4 at 87.7\% for fallacy identification; our higher rates with \gptfull (a newer model) are consistent with the expected improvement trajectory. \citet{payandeh2023susceptible} found a self-detection paradox in GPT-3.5 that we do not observe in \gptfull, suggesting this paradox may be resolved in more capable models.
+
+\subsection{Limitations}
+\label{sec:limitations}
+
+\para{Sample size.} With $N = 15$ per category, our per-category analysis is underpowered. A 13.3\% bias (2/15 difference) could arise by chance. Scaling to 50+ examples per category would provide adequate power.
+
+\para{Model coverage.} We test only \gptfull and \gptmini, both from OpenAI. Cross-provider evaluation (Claude, Gemini, open-source models) would strengthen generalizability claims.
+
+\para{Attribution transparency.} Our framing (``you previously generated'' vs.\ ``a different AI model generated'') may be too transparent. Models may not genuinely treat the text as self-generated. Implicit self-evaluation using actual conversation history would provide a stronger test.
+
+\para{Positive examples only.} We test only fallacious reasoning (no non-fallacious controls). True detection accuracy requires both positive and negative examples to assess false positive rates alongside detection rates.
+
+\para{Deterministic decoding.} Temperature $= 0.0$ prevents measuring response variability. Multiple runs with temperature $> 0$ would provide confidence intervals reflecting model stochasticity.
+
+\para{Dataset characteristics.} The \logicdataset dataset contains educational examples that may be ``textbook-easy'' compared to fallacies encountered in naturalistic settings such as news articles, social media, or political discourse.

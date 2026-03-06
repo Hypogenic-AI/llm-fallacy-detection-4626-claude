@@ -1,0 +1,17 @@
+\section{Introduction}
+\label{sec:intro}
+
+As large language models (LLMs) become central to automated reasoning pipelines, a critical question arises: can these models reliably evaluate the logical validity of their own outputs? Self-evaluation is a cornerstone of LLM-as-judge systems~\citep{zheng2023judging}, self-correction mechanisms~\citep{madaan2023selfrefine}, and safety monitoring frameworks. If models exhibit systematic blindspots when assessing their own reasoning---detecting fallacies less accurately than when evaluating other models' reasoning---the reliability of these systems is fundamentally compromised.
+
+Recent work has established that LLMs struggle with reasoning error detection. \citet{tyen2024llms} showed that GPT-4 achieves only 52.87\% accuracy on mistake finding in chain-of-thought traces, despite succeeding at correction when given the error location. \citet{liu2024self} found self-contradiction rates up to 50\% in certain models, with GPT-4 detecting these contradictions at only 52.2\% F1. Meanwhile, \citet{payandeh2023susceptible} identified a self-detection paradox: GPT-3.5 generates fallacies it cannot subsequently identify. These findings raise a natural question: does \emph{attribution}---whether reasoning is framed as the model's own---systematically bias fallacy detection?
+
+Despite growing interest in LLM self-evaluation, no study has systematically compared detection rates when identical fallacious reasoning is attributed to ``self'' versus ``another model.'' \citet{tyen2024llms} explicitly called for studying cross-model versus self-evaluation differences. \citet{hong2024closer} documented category-specific performance variation across 232 fallacy types but did not examine whether source attribution affects detection. This gap is consequential: if simple attribution framing can bias evaluation, then LLM-as-judge systems and self-correction pipelines may produce systematically skewed assessments.
+
+We address this gap with three controlled experiments using \gptfull and \gptmini on 195 examples from the \logicdataset dataset~\citep{jin2022logical} spanning 13 fallacy categories. Our attribution framing experiment reveals that \gptfull is remarkably robust: the detection gap between self-attributed and other-attributed conditions is only $+3.1\%$ ($p = 0.146$). In genuine cross-model evaluation, self-evaluation accuracy ($82.0\%$) actually exceeds cross-evaluation ($79.5\%$), contradicting the hypothesized self-evaluation penalty. However, we identify category-specific asymmetries reaching $13.3\%$ for false dilemma, faulty generalization, and intentional fallacies.
+
+We make the following contributions:
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item We design and conduct the first controlled study of attribution bias in LLM fallacy detection, isolating the effect of source framing from content differences across 13 fallacy categories.
+    \item We perform cross-model evaluation between \gptfull and \gptmini, constructing a $2 \times 2$ detection matrix that reveals self-evaluation slightly outperforms cross-evaluation in genuine settings.
+    \item We identify category-specific blindspots---false dilemma, faulty generalization, and intentional fallacies show $+13.3\%$ attribution bias, while fallacy of credibility shows $-13.3\%$ reverse bias---and demonstrate that explicit prompting interventions produce zero improvement ($p = 1.0$).
+\end{itemize}

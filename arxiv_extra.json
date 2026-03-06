@@ -1,0 +1,127 @@
+[
+  {
+    "id": "http://arxiv.org/abs/2504.16021v1",
+    "title": "Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support",
+    "pdf": "https://arxiv.org/pdf/2504.16021v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2503.15113v1",
+    "title": "Reasoning Effort and Problem Complexity: A Scaling Analysis in LLMs",
+    "pdf": "https://arxiv.org/pdf/2503.15113v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2406.13803v3",
+    "title": "LLMs as Models for Analogical Reasoning",
+    "pdf": "https://arxiv.org/pdf/2406.13803v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2401.10065v3",
+    "title": "Code Prompting Elicits Conditional Reasoning Abilities in Text+Code LLMs",
+    "pdf": "https://arxiv.org/pdf/2401.10065v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2311.08516v3",
+    "title": "LLMs cannot find reasoning errors, but can correct them given the error location",
+    "pdf": "https://arxiv.org/pdf/2311.08516v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2309.02144v1",
+    "title": "Making Large Language Models Better Reasoners with Alignment",
+    "pdf": "https://arxiv.org/pdf/2309.02144v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2510.00071v2",
+    "title": "ARS: Adaptive Reasoning Suppression for Efficient Large Reasoning Language Models",
+    "pdf": "https://arxiv.org/pdf/2510.00071v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2508.04848v1",
+    "title": "Large Language Models Reasoning Abilities Under Non-Ideal Conditions After RL-Fine-Tuning",
+    "pdf": "https://arxiv.org/pdf/2508.04848v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2308.16118v2",
+    "title": "Response: Emergent analogical reasoning in large language models",
+    "pdf": "https://arxiv.org/pdf/2308.16118v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2512.13930v1",
+    "title": "Hierarchical Multi-agent Large Language Model Reasoning for Autonomous Functional Materials Discovery",
+    "pdf": "https://arxiv.org/pdf/2512.13930v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2504.11972v2",
+    "title": "LLM-as-a-Judge: Reassessing the Performance of LLMs in Extractive QA",
+    "pdf": "https://arxiv.org/pdf/2504.11972v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2504.07887v2",
+    "title": "Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge",
+    "pdf": "https://arxiv.org/pdf/2504.07887v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2406.11657v1",
+    "title": "Can LLM be a Personalized Judge?",
+    "pdf": "https://arxiv.org/pdf/2406.11657v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2404.11457v2",
+    "title": "Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era",
+    "pdf": "https://arxiv.org/pdf/2404.11457v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2603.05485v1",
+    "title": "Towards Provably Unbiased LLM Judges via Bias-Bounded Evaluation",
+    "pdf": "https://arxiv.org/pdf/2603.05485v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2601.01982v1",
+    "title": "ChaosBench-Logic: A Benchmark for Logical and Symbolic Reasoning on Chaotic Dynamical Systems",
+    "pdf": "https://arxiv.org/pdf/2601.01982v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2311.07954v2",
+    "title": "A Closer Look at the Self-Verification Abilities of Large Language Models in Logical Reasoning",
+    "pdf": "https://arxiv.org/pdf/2311.07954v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2407.04973v1",
+    "title": "LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts",
+    "pdf": "https://arxiv.org/pdf/2407.04973v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2309.02144v1",
+    "title": "Making Large Language Models Better Reasoners with Alignment",
+    "pdf": "https://arxiv.org/pdf/2309.02144v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2508.04848v1",
+    "title": "Large Language Models Reasoning Abilities Under Non-Ideal Conditions After RL-Fine-Tuning",
+    "pdf": "https://arxiv.org/pdf/2508.04848v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.03595v1",
+    "title": "Understanding Reasoning in Chain-of-Thought from the Hopfieldian View",
+    "pdf": "https://arxiv.org/pdf/2410.03595v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2305.17306v1",
+    "title": "Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance",
+    "pdf": "https://arxiv.org/pdf/2305.17306v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2301.13379v3",
+    "title": "Faithful Chain-of-Thought Reasoning",
+    "pdf": "https://arxiv.org/pdf/2301.13379v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2502.14829v4",
+    "title": "Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps",
+    "pdf": "https://arxiv.org/pdf/2502.14829v4"
+  },
+  {
+    "id": "http://arxiv.org/abs/1808.06295v1",
+    "title": "Space Weather Prediction from the Ground: Case of CHAIN",
+    "pdf": "https://arxiv.org/pdf/1808.06295v1"
+  }
+]

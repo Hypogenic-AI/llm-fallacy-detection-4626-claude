@@ -1,0 +1,97 @@
+[
+  {
+    "id": "http://arxiv.org/abs/2410.15050v1",
+    "title": "Are LLMs Good Zero-Shot Fallacy Classifiers?",
+    "pdf": "https://arxiv.org/pdf/2410.15050v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2402.11100v2",
+    "title": "When LLMs Meet Cunning Texts: A Fallacy Understanding Benchmark for Large Language Models",
+    "pdf": "https://arxiv.org/pdf/2402.11100v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.03457v1",
+    "title": "CoCoLoFa: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds",
+    "pdf": "https://arxiv.org/pdf/2410.03457v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2311.09603v4",
+    "title": "Self-Contradictory Reasoning Evaluation and Detection",
+    "pdf": "https://arxiv.org/pdf/2311.09603v4"
+  },
+  {
+    "id": "http://arxiv.org/abs/2308.09853v1",
+    "title": "How susceptible are LLMs to Logical Fallacies?",
+    "pdf": "https://arxiv.org/pdf/2308.09853v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2311.09761v2",
+    "title": "MAFALDA: A Benchmark and Comprehensive Study of Fallacy Detection and Classification",
+    "pdf": "https://arxiv.org/pdf/2311.09761v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2202.13758v3",
+    "title": "Logical Fallacy Detection",
+    "pdf": "https://arxiv.org/pdf/2202.13758v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2404.04293v1",
+    "title": "Reason from Fallacy: Enhancing Large Language Models' Logical Reasoning through Logical Fallacy Understanding",
+    "pdf": "https://arxiv.org/pdf/2404.04293v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2410.12048v1",
+    "title": "Boosting Logical Fallacy Reasoning in LLMs via Logical Structure Tree",
+    "pdf": "https://arxiv.org/pdf/2410.12048v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2401.00757v3",
+    "title": "LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models",
+    "pdf": "https://arxiv.org/pdf/2401.00757v3"
+  },
+  {
+    "id": "http://arxiv.org/abs/2301.11879v2",
+    "title": "Case-Based Reasoning with Language Models for Classification of Logical Fallacies",
+    "pdf": "https://arxiv.org/pdf/2301.11879v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2502.13125v1",
+    "title": "RuozhiBench: Evaluating LLMs with Logical Fallacies and Misleading Premises",
+    "pdf": "https://arxiv.org/pdf/2502.13125v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2506.11128v2",
+    "title": "Theory-Grounded Evaluation of Human-Like Fallacy Patterns in LLM Reasoning",
+    "pdf": "https://arxiv.org/pdf/2506.11128v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2311.13095v1",
+    "title": "Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications",
+    "pdf": "https://arxiv.org/pdf/2311.13095v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2502.01100v2",
+    "title": "ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning",
+    "pdf": "https://arxiv.org/pdf/2502.01100v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2412.15177v1",
+    "title": "Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying",
+    "pdf": "https://arxiv.org/pdf/2412.15177v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2501.19337v2",
+    "title": "Token Sampling Uncertainty Does Not Explain Homogeneity Bias in Large Language Models",
+    "pdf": "https://arxiv.org/pdf/2501.19337v2"
+  },
+  {
+    "id": "http://arxiv.org/abs/2505.16276v1",
+    "title": "How do Scaling Laws Apply to Knowledge Graph Engineering Tasks? The Impact of Model Size on Large Language Model Performance",
+    "pdf": "https://arxiv.org/pdf/2505.16276v1"
+  },
+  {
+    "id": "http://arxiv.org/abs/2404.05213v1",
+    "title": "Evaluation of an LLM in Identifying Logical Fallacies: A Call for Rigor When Adopting LLMs in HCI Research",
+    "pdf": "https://arxiv.org/pdf/2404.05213v1"
+  }
+]

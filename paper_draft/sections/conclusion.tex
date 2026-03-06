@@ -1,0 +1,8 @@
+\section{Conclusion}
+\label{sec:conclusion}
+
+We conducted the first controlled study of attribution bias in LLM fallacy detection, testing whether labeling reasoning as ``self-generated'' versus ``other-generated'' changes detection accuracy. Across three experiments with 195 examples spanning 13 fallacy categories, we find that \gptfull does \emph{not} exhibit statistically significant self-evaluation bias. The attribution bias is only $+3.1\%$ ($p = 0.146$, Cohen's $h = 0.129$), far below the hypothesized $20$--$40\%$ reduction. In genuine cross-model evaluation, self-evaluation slightly \emph{outperforms} cross-evaluation ($82.0\%$ vs.\ $79.5\%$). Category-specific asymmetries exist (up to $\pm 13.3\%$) but are inconsistent in direction and not statistically robust at $N = 15$ per category.
+
+The key takeaway is that modern frontier LLMs appear remarkably robust to simple attribution framing manipulations for fallacy detection, though the absolute detection ceiling---not attribution bias---remains the practical bottleneck, with 5--20\% of fallacies missed depending on type.
+
+Future work should scale per-category samples to 50+ examples, include non-fallacious controls, test cross-provider models (Claude, Gemini, open-source), and explore implicit self-evaluation using genuine conversation history rather than explicit attribution framing. Understanding whether the category-specific blindspots we identify (appeal to emotion, intentional fallacies) persist at larger scale is critical for deploying reliable self-evaluation in safety-critical applications.

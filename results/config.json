@@ -1,0 +1,25 @@
+{
+  "seed": 42,
+  "models": [
+    "gpt-4.1",
+    "gpt-4o-mini"
+  ],
+  "samples_per_category": 15,
+  "total_samples": 195,
+  "dataset": "LOGIC (Jin et al. 2022)",
+  "categories": [
+    "ad hominem",
+    "ad populum",
+    "appeal to emotion",
+    "circular reasoning",
+    "equivocation",
+    "fallacy of credibility",
+    "fallacy of extension",
+    "fallacy of logic",
+    "fallacy of relevance",
+    "false causality",
+    "false dilemma",
+    "faulty generalization",
+    "intentional"
+  ]
+}
