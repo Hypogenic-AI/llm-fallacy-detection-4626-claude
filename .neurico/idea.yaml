@@ -1,0 +1,75 @@
+idea:
+  title: 'Systematic Blindspots in LLM Self-Detection of Logical Fallacies: A Comparative
+    Analysis of Chain-of-Thought Reasoning Evaluation'
+  domain: artificial_intelligence
+  hypothesis: 'Large language models exhibit asymmetric detection rates for logical
+    fallacies when evaluating their own chain-of-thought reasoning compared to other
+    models'' reasoning, with systematic blindspots correlating to fallacy types underrepresented
+    in their training data. Specifically, models will show 20-40% lower detection
+    accuracy for fallacies in self-generated reasoning and demonstrate category-specific
+    blindspots (e.g., appeal to authority, false dilemma) that align with training
+    corpus characteristics.
+
+    '
+  background:
+    description: 'While LLMs demonstrate impressive reasoning capabilities, their
+      ability to critically evaluate logical validity remains understudied, particularly
+      regarding self-assessment. Recent work suggests models may exhibit confirmation
+      bias when evaluating their own outputs, but systematic analysis of fallacy detection
+      across different reasoning sources is lacking. Understanding these blindspots
+      is crucial for developing reliable AI systems capable of self-correction and
+      for identifying training data biases that perpetuate logical errors.
+
+      '
+  methodology:
+    approach: Construct a controlled dataset of chain-of-thought reasoning containing
+      embedded logical fallacies, then measure detection accuracy across self-generated
+      vs. other-model reasoning using multiple LLMs, correlating blindspots with estimated
+      training data composition through fallacy category analysis.
+    steps:
+    - Create benchmark dataset of 1000+ reasoning chains across 15 fallacy categories
+      (ad hominem, strawman, appeal to authority, false dilemma, slippery slope, etc.)
+      using templates and human validation
+    - 'Generate parallel reasoning chains: have each model (GPT-3.5, GPT-4, Claude,
+      Llama-2) produce solutions to 200 problems, then inject controlled fallacies
+      at specific reasoning steps'
+    - 'Conduct detection experiments where each model evaluates: (a) its own reasoning,
+      (b) other models'' reasoning, (c) template-based reasoning, measuring fallacy
+      detection accuracy per category'
+    - Analyze detection rate asymmetries using paired statistical tests, computing
+      self-vs-other detection gaps and identifying systematic blindspots (categories
+      with >15% accuracy difference)
+    - Estimate training data composition using proxy datasets (Common Crawl, Wikipedia,
+      academic corpora) to analyze fallacy prevalence, then compute correlation coefficients
+      between fallacy frequency and detection blindspots
+    - Perform ablation studies testing whether explicit prompting strategies (e.g.,
+      'check for logical fallacies') reduce self-evaluation blindspots or if biases
+      persist
+    metrics:
+    - Fallacy detection accuracy per category (precision, recall, F1) across self
+      vs. other reasoning
+    - 'Blindspot severity index: percentage difference in detection rates between
+      self and other-model evaluation per fallacy type'
+    - 'Training data correlation coefficient: Spearman correlation between estimated
+      fallacy prevalence in training corpora and detection accuracy'
+    - 'Cross-model consistency score: agreement rates between different models when
+      evaluating the same reasoning chains'
+    - 'Intervention effectiveness: reduction in self-evaluation bias under different
+      prompting strategies'
+  constraints:
+    compute: cpu_only
+    time_limit: 3600
+  metadata:
+    tags:
+    - logical-reasoning
+    - llm-evaluation
+    - bias-detection
+    - chain-of-thought
+    - self-assessment
+    - training-data-analysis
+    - fallacy-detection
+    idea_id: systematic_blindspots_in_llm_s_20260306_040314_029149e8
+    created_at: '2026-03-06T04:03:14.266479'
+    status: submitted
+    github_repo_name: llm-fallacy-detection-4626-claude
+    github_repo_url: https://github.com/Hypogenic-AI/llm-fallacy-detection-4626-claude
